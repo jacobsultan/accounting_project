@@ -6,7 +6,7 @@ import pandas as pd
 
 class DataEncoder:
     def __init__(self, whole_df):
-        self.onehot_encoder = OneHotEncoder(sparse=False)
+        self.onehot_encoder = OneHotEncoder(sparse_output=False)
         self.label_encoder = LabelEncoder()
         self.onehot_columns = None
 
