@@ -1,0 +1,1708 @@
+account,amount,currency,direction,Cash in/Cash out,effective_date,description,label
+a 1,"1,814.39",USD,credit,Cash in,2023-02-28,cbl hp bul adg,a
+a 1,16.00,USD,debit,Cash out,2023-02-28,amb asg cbe cbr avd cpf,b
+a 1,16.00,USD,debit,Cash out,2023-02-28,amb asg cbe cbr avd bxa,b
+a 1,246.75,USD,debit,Cash out,2023-02-28,amb asg ub dp avd cgb,b
+a 1,4.80,USD,debit,Cash out,2023-02-28,amb asg ip bip avd xl,b
+a 1,"3,420.93",USD,debit,Cash out,2023-02-28,bjx as,c
+a 1,"8,789.40",USD,credit,Cash in,2023-02-28,awi ael auo ao btq bcd,d
+a 1,4.20,USD,debit,Cash out,2023-02-28,amb asg cbe cw avd bsc,b
+a 1,3.60,USD,debit,Cash out,2023-02-28,amb asg ip bmm avd bkf,b
+a 1,15.00,USD,debit,Cash out,2023-02-28,amb asg cbe cbr avd aiu,b
+a 1,"71,792.42",USD,credit,Cash in,2023-02-28,awi ael auo clr btq bci,d
+a 1,432.63,USD,debit,Cash out,2023-02-28,amb asg qv bsa avd df,b
+a 1,100.00,USD,debit,Cash out,2023-02-28,amb asg ub bsw avd gg,b
+a 1,200.00,USD,debit,Cash out,2023-02-28,amb asg adq bjp avd blh,b
+a 1,30.32,USD,debit,Cash out,2023-02-28,amb asg ub dp avd y,b
+a 1,222.92,USD,debit,Cash out,2023-02-28,amb asg ip abx avd ds,b
+a 1,400.00,USD,debit,Cash out,2023-02-28,amb asg ub dp avd awq,b
+a 1,161.85,USD,debit,Cash out,2023-02-28,amb asg cma awc avd crh,b
+a 1,"146,542.42",USD,credit,Cash in,2023-02-28,awi ael auo clr btq bci,d
+a 1,190.87,USD,debit,Cash out,2023-02-28,amb asg ub dp avd acm,b
+a 1,190.87,USD,debit,Cash out,2023-02-28,amb asg ub dp avd ccg,b
+a 1,4.00,USD,debit,Cash out,2023-02-28,amb asg bwx agq avd qp,b
+a 1,"124,281.05",USD,credit,Cash in,2023-02-28,buy aq vj,a
+a 2,220.84,USD,credit,Cash in,2023-02-28,cbl hp bul fa,a
+a 2,"42,430.22",USD,credit,Cash in,2023-02-28,buy aq clp,a
+a 3,265.03,USD,debit,Cash out,2023-02-28,yg kr brz,c
+a 3,"6,960.28",USD,credit,Cash in,2023-02-28,nj cdc ha avd bbe,d
+a 3,"2,223.00",USD,credit,Cash in,2023-02-28,ky aqg clr ai bmu,d
+a 3,4.67,USD,credit,Cash in,2023-02-28,coe crp aax aev xm cma asa ama crp ou,e
+a 3,"2,708.29",USD,credit,Cash in,2023-02-28,nj cdc ha avd mv,d
+a 3,740.52,USD,debit,Cash out,2023-02-28,yg bcc bac,c
+a 3,"1,230.88",USD,debit,Cash out,2023-02-28,amb asg aic ov avd bvf,b
+b 4,"5,119.65",USD,credit,Cash in,2023-02-28,cbl hp bul bpb arh,a
+b 5,"21,376.31",USD,credit,Cash in,2023-02-28,cbl hp bul yh arh,a
+a 1,"1,113.47",USD,debit,Cash out,2023-02-27,bfg aof pi bfg aof xp,f
+a 1,85.00,USD,debit,Cash out,2023-02-27,amb asg bwx bqe amp bek,b
+a 1,148.53,USD,debit,Cash out,2023-02-27,amb asg cma bop amp bii,b
+a 1,15.12,USD,debit,Cash out,2023-02-27,amb asg cma ayv amp asd,b
+a 1,341.91,USD,debit,Cash out,2023-02-27,amb asg bw aqi amp cdl,b
+a 1,108.36,USD,debit,Cash out,2023-02-27,amb asg cma bop amp bxv,b
+a 1,134.93,USD,debit,Cash out,2023-02-27,amb asg ub dp amp bha,b
+a 1,6.00,USD,debit,Cash out,2023-02-27,amb asg bw cow amp bsu,b
+a 1,341.50,USD,debit,Cash out,2023-02-27,amb asg cbe ckf amp am,b
+a 1,148.29,USD,debit,Cash out,2023-02-27,amb asg cma bop amp cqw,b
+a 1,7.00,USD,debit,Cash out,2023-02-27,amb asg gh cli amp bjs,b
+a 1,56.22,USD,debit,Cash out,2023-02-27,amb asg cma mr mj amp alx,b
+a 1,341.91,USD,debit,Cash out,2023-02-27,amb asg bw aqi amp byw,b
+a 1,16.45,USD,debit,Cash out,2023-02-27,amb asg bw cow amp cpl,b
+a 1,12.06,USD,debit,Cash out,2023-02-27,amb asg afw bnj amp bqc,b
+a 1,99.65,USD,debit,Cash out,2023-02-27,amb asg cma mr mj amp ahz,b
+a 1,85.00,USD,debit,Cash out,2023-02-27,amb asg bwx bqe amp cox,b
+a 1,107.90,USD,debit,Cash out,2023-02-27,amb asg cma bop amp dq,b
+a 1,400.00,USD,debit,Cash out,2023-02-27,amb asg ub dp amp buc,b
+a 1,525.00,USD,debit,Cash out,2023-02-27,amb asg bw cow amp cej,b
+a 1,218.77,USD,debit,Cash out,2023-02-27,amb asg ub dp amp gw,b
+a 1,60.00,USD,debit,Cash out,2023-02-27,amb asg cma mr mj amp g,b
+a 1,154.58,USD,debit,Cash out,2023-02-27,amb asg ub dp amp anu,b
+a 1,"141,481.69",USD,debit,Cash out,2023-02-27,yg bcc bnz,c
+a 1,770.99,USD,debit,Cash out,2023-02-27,bjx as,c
+a 1,197.81,USD,debit,Cash out,2023-02-27,amb asg ub dp amp zd,b
+a 1,"66,390.27",USD,debit,Cash out,2023-02-27,yg kr cav,c
+a 1,50.00,USD,debit,Cash out,2023-02-27,amb asg gh cli amp lr,b
+a 1,250.00,USD,debit,Cash out,2023-02-27,amb asg bw aqi amp rf,b
+a 1,148.32,USD,debit,Cash out,2023-02-27,amb asg cma bop amp cpy,b
+a 1,143.47,USD,debit,Cash out,2023-02-27,amb asg ub dp amp bsl,b
+a 1,250.00,USD,debit,Cash out,2023-02-27,amb asg bw gx amp atd,b
+a 1,134.93,USD,debit,Cash out,2023-02-27,amb asg ub dp amp xe,b
+a 1,757.53,USD,debit,Cash out,2023-02-27,bjx as,c
+a 1,101.73,USD,debit,Cash out,2023-02-27,amb asg cma mr mj amp bwi,b
+a 1,148.32,USD,debit,Cash out,2023-02-27,amb asg cma bop amp cki,b
+a 1,"90,810.17",USD,credit,Cash in,2023-02-27,buy aq bax,a
+a 1,68.49,USD,credit,Cash in,2023-02-27,buy aq xa,a
+a 2,"31,708.33",USD,credit,Cash in,2023-02-27,buy aq axb,a
+a 3,"626,620.33",USD,debit,Cash out,2023-02-27,yg bcc bkt,c
+a 3,"2,964.00",USD,credit,Cash in,2023-02-27,ky aqg clr ai ro,d
+a 3,179.97,USD,debit,Cash out,2023-02-27,amb asg cma bos amp cfl,b
+a 3,"1,556.10",USD,debit,Cash out,2023-02-27,ban cdc agj asp,d
+a 3,270.26,USD,debit,Cash out,2023-02-27,bqh ay agw,c
+a 3,"1,556.10",USD,debit,Cash out,2023-02-27,ban cdc agj abb,d
+a 3,"1,176.76",USD,debit,Cash out,2023-02-27,ban cdc agj kb,d
+a 3,195.62,USD,debit,Cash out,2023-02-27,ban cdc agj clo,d
+a 3,"7,410.00",USD,credit,Cash in,2023-02-27,ky aqg clr ai om,d
+a 3,"2,889.90",USD,credit,Cash in,2023-02-27,ky aqg clr ai bts,d
+a 3,"2,482.35",USD,debit,Cash out,2023-02-27,ban cdc agj cal,d
+a 3,777.31,USD,debit,Cash out,2023-02-27,ban cdc agj bdf,d
+a 3,"2,037.75",USD,debit,Cash out,2023-02-27,ban cdc agj bcs,d
+a 3,"2,223.00",USD,debit,Cash out,2023-02-27,ban cdc agj bky,d
+a 3,"3,609.76",USD,debit,Cash out,2023-02-27,ban cdc agj ast,d
+a 3,405.50,USD,debit,Cash out,2023-02-27,ban cdc agj aav,d
+a 3,"368,612.07",USD,debit,Cash out,2023-02-27,yg bcc bsh,c
+a 3,"1,482.00",USD,credit,Cash in,2023-02-27,ky aqg clr ai aey,d
+a 3,"10,244.32",USD,credit,Cash in,2023-02-27,ky aqg clr ai awy,d
+a 3,344.67,USD,debit,Cash out,2023-02-27,ban cdc agj xn,d
+a 3,"3,705.00",USD,credit,Cash in,2023-02-27,ky aqg clr ai bpz,d
+a 3,81.10,USD,debit,Cash out,2023-02-27,ban cdc agj bza,d
+a 3,"3,705.00",USD,credit,Cash in,2023-02-27,ky aqg clr ai bls,d
+a 3,"1,592.41",USD,credit,Cash in,2023-02-27,ky aqg clr ai apt,d
+a 3,"2,111.85",USD,debit,Cash out,2023-02-27,ban cdc agj lf,d
+a 3,"1,482.00",USD,debit,Cash out,2023-02-27,ban cdc agj aha,d
+a 3,"1,482.00",USD,credit,Cash in,2023-02-27,ky aqg clr ai uk,d
+a 3,811.00,USD,debit,Cash out,2023-02-27,ban cdc agj bq,d
+a 3,741.00,USD,debit,Cash out,2023-02-27,ban cdc agj aya,d
+a 3,"332,054.53",USD,debit,Cash out,2023-02-27,yg kr bcf,c
+a 3,337.90,USD,debit,Cash out,2023-02-27,ban cdc agj xc,d
+a 3,402.36,USD,debit,Cash out,2023-02-27,ban cdc agj bkj,d
+a 3,"4,223.70",USD,debit,Cash out,2023-02-27,ban cdc agj nv,d
+a 3,"1,118.91",USD,debit,Cash out,2023-02-27,ban cdc agj axp,d
+a 3,"3,890.25",USD,debit,Cash out,2023-02-27,ban cdc agj anz,d
+a 3,925.51,USD,debit,Cash out,2023-02-27,ban cdc agj bsn,d
+a 3,"135,713.99",USD,debit,Cash out,2023-02-27,yg kr asn,c
+a 3,198.93,USD,debit,Cash out,2023-02-27,amb asg avh nq amp afj,b
+a 3,"3,660.54",USD,credit,Cash in,2023-02-27,ky aqg clr ai bdn,d
+a 3,"1,852.50",USD,debit,Cash out,2023-02-27,ban cdc agj ckh,d
+a 3,"1,338.96",USD,debit,Cash out,2023-02-27,ban cdc agj fb,d
+a 3,"2,186.69",USD,debit,Cash out,2023-02-27,ban cdc agj akt,d
+a 3,442.99,USD,debit,Cash out,2023-02-27,bqh ay agw,c
+a 3,876.39,USD,debit,Cash out,2023-02-27,yg ate cmj,c
+a 3,"1,111.50",USD,debit,Cash out,2023-02-27,ban cdc agj ali,d
+a 3,"3,764.28",USD,credit,Cash in,2023-02-27,ky aqg clr ai kw,d
+a 3,"3,334.50",USD,credit,Cash in,2023-02-27,ky aqg clr ai cer,d
+a 3,"1,000,000.00",USD,debit,Cash out,2023-02-27,coe crp ait aqa ayl axt ama crp bxc,e
+a 3,407.55,USD,debit,Cash out,2023-02-27,ban cdc agj als,d
+a 3,"2,964.00",USD,credit,Cash in,2023-02-27,ky aqg clr ai bdk,d
+c 6,"8,333.78",USD,credit,Cash in,2023-02-27,buy aq co,a
+a 1,34.84,USD,debit,Cash out,2023-02-24,amb asg adq ays bpc j,b
+a 1,49.95,USD,debit,Cash out,2023-02-24,amb asg bie aqu bpc cng,b
+a 1,42.68,USD,debit,Cash out,2023-02-24,amb asg ub eo bpc aiq,b
+a 1,102.57,USD,debit,Cash out,2023-02-24,amb asg cbe cqz bpc cau,b
+a 1,49.51,USD,debit,Cash out,2023-02-24,amb asg cma bop bpc lv,b
+a 1,155.00,USD,debit,Cash out,2023-02-24,amb asg adq ays bpc zs,b
+a 1,"30,707.77",USD,debit,Cash out,2023-02-24,yg bcc bbp,c
+a 1,"16,566.46",USD,debit,Cash out,2023-02-24,yg kr bxk,c
+a 1,161.75,USD,debit,Cash out,2023-02-24,amb asg ip coy bpc nc,b
+a 1,101.24,USD,debit,Cash out,2023-02-24,amb asg cbe cqz bpc tc,b
+a 1,"86,204.86",USD,credit,Cash in,2023-02-24,awi ael auo clr amp bci,d
+a 1,161.59,USD,debit,Cash out,2023-02-24,amb asg ub dp bpc crn,b
+a 1,41.75,USD,debit,Cash out,2023-02-24,amb asg adq ays bpc auq,b
+a 1,175.37,USD,debit,Cash out,2023-02-24,amb asg ub dp bpc cpi,b
+a 1,42.68,USD,debit,Cash out,2023-02-24,amb asg ub eo bpc lb,b
+a 1,265.29,USD,debit,Cash out,2023-02-24,amb asg ub eo bpc bir,b
+a 1,12.60,USD,debit,Cash out,2023-02-24,amb asg adq ays bpc bfc,b
+a 1,"84,051.46",USD,credit,Cash in,2023-02-24,buy aq sa,a
+a 1,59.52,USD,credit,Cash in,2023-02-24,buy aq apd,a
+a 2,"31,344.60",USD,credit,Cash in,2023-02-24,buy aq ad,a
+a 3,83.71,USD,debit,Cash out,2023-02-24,yg kr agd,c
+a 3,"6,520.80",USD,credit,Cash in,2023-02-24,ky aqg clr ai con,d
+a 3,"1,112.76",USD,debit,Cash out,2023-02-24,yg kr adj,c
+a 3,"10,503.44",USD,credit,Cash in,2023-02-24,nj cdc ha bpc bzg,d
+a 3,"3,195.58",USD,debit,Cash out,2023-02-24,yg bcc ccp,c
+a 3,"2,964.00",USD,credit,Cash in,2023-02-24,ky aqg clr ai bkr,d
+a 3,938.71,USD,debit,Cash out,2023-02-24,yg bcc blm,c
+a 3,82.73,USD,debit,Cash out,2023-02-24,yg kr baj,c
+a 3,"1,852.50",USD,credit,Cash in,2023-02-24,ky aqg clr ai adh,d
+a 3,247.07,USD,debit,Cash out,2023-02-24,yg kr ahk,c
+a 3,372.52,USD,debit,Cash out,2023-02-24,yg bcc zw,c
+a 3,417.81,USD,debit,Cash out,2023-02-24,yg bcc ayw,c
+a 3,84.60,USD,debit,Cash out,2023-02-24,yg kr ak,c
+a 3,901.70,USD,debit,Cash out,2023-02-24,yg bcc cpm,c
+a 3,"1,852.50",USD,credit,Cash in,2023-02-24,ky aqg clr ai ahr,d
+a 3,234.16,USD,debit,Cash out,2023-02-24,yg kr acl,c
+a 3,256.11,USD,debit,Cash out,2023-02-24,yg kr bbm,c
+a 3,826.29,USD,debit,Cash out,2023-02-24,yg bcc bsi,c
+a 3,"4,816.50",USD,credit,Cash in,2023-02-24,ky aqg clr ai bje,d
+a 3,415.94,USD,debit,Cash out,2023-02-24,yg bcc gi,c
+c 6,"2,395.88",USD,credit,Cash in,2023-02-24,buy aq bgr,a
+c 6,215.49,USD,credit,Cash in,2023-02-23,cbl hp bul bmr,a
+a 1,82.25,USD,debit,Cash out,2023-02-23,amb asg bie afk ss byv,b
+a 1,"15,199.51",USD,credit,Cash in,2023-02-23,cbl hp bul adg,a
+a 1,7.63,USD,debit,Cash out,2023-02-23,amb asg gh che ss bmd,b
+a 1,"2,000.00",USD,debit,Cash out,2023-02-23,coe crp bpd aqa kj bvm ama crp aow,e
+a 1,"102,332.13",USD,credit,Cash in,2023-02-23,awi ael auo clr bpc bci,d
+a 1,"4,417.56",USD,debit,Cash out,2023-02-23,bwy cgw bwy,f
+a 1,100.00,USD,debit,Cash out,2023-02-23,amb asg bie afk ss aqz,b
+a 1,"5,081.00",USD,debit,Cash out,2023-02-23,coe crp hk aqa azq axs ama crp aos,e
+a 1,"3,000.00",USD,debit,Cash out,2023-02-23,amb asg bie bfn ss atf,b
+a 1,7.63,USD,debit,Cash out,2023-02-23,amb asg gh che ss blk,b
+a 1,7.63,USD,debit,Cash out,2023-02-23,amb asg gh che ss yi,b
+a 1,13.06,USD,debit,Cash out,2023-02-23,amb asg gh che ss bqq,b
+a 1,9.44,USD,debit,Cash out,2023-02-23,amb asg gh che ss axy,b
+a 1,"265,843.45",USD,credit,Cash in,2023-02-23,buy aq bfp,a
+a 1,150.94,USD,credit,Cash in,2023-02-23,buy aq ass,a
+a 2,"3,739.08",USD,credit,Cash in,2023-02-23,cbl hp bul fa,a
+a 2,"40,921.29",USD,credit,Cash in,2023-02-23,buy aq kf,a
+a 3,"5,557.50",USD,credit,Cash in,2023-02-23,ky aqg clr ai bwq,d
+a 3,1.41,USD,credit,Cash in,2023-02-23,coe crp byk aev chg akj ama crp cic,e
+a 3,"8,861.30",USD,credit,Cash in,2023-02-23,nj cdc ha ss blz,d
+a 3,45.98,USD,debit,Cash out,2023-02-23,amb asg cbe cmv ss zf,b
+a 3,"1,185.60",USD,credit,Cash in,2023-02-23,ky aqg clr ai amq,d
+a 3,"4,816.50",USD,credit,Cash in,2023-02-23,ky aqg clr ai lg,d
+a 3,"1,482.00",USD,credit,Cash in,2023-02-23,ky aqg clr ai bnm,d
+a 3,"1,482.00",USD,credit,Cash in,2023-02-23,ky aqg clr ai pz,d
+a 3,592.80,USD,credit,Cash in,2023-02-23,ky aqg clr ai aus,d
+a 3,"2,223.00",USD,credit,Cash in,2023-02-23,ky aqg clr ai avr,d
+a 3,76.11,USD,debit,Cash out,2023-02-23,amb asg cma bos ss cab,b
+b 4,"4,079.68",USD,credit,Cash in,2023-02-23,cbl hp bul bpb arh,a
+b 5,"25,737.77",USD,credit,Cash in,2023-02-23,cbl hp bul yh arh,a
+c 6,"6,461.51",USD,credit,Cash in,2023-02-23,buy aq bvb,a
+a 1,167.95,USD,debit,Cash out,2023-02-22,amb asg cma mr mj rq kl,b
+a 1,111.79,USD,debit,Cash out,2023-02-22,amb asg ub dp rq aog,b
+a 1,435.00,USD,debit,Cash out,2023-02-22,amb asg avh ahh rq bb,b
+a 1,197.81,USD,debit,Cash out,2023-02-22,amb asg ub dp rq zh,b
+a 1,"11,722.54",USD,debit,Cash out,2023-02-22,hx bzn hx btn dx,f
+a 1,452.00,USD,debit,Cash out,2023-02-22,amb asg avh ahh rq cfs,b
+a 1,335.07,USD,debit,Cash out,2023-02-22,cap cjv cap bkd alp,f
+a 1,129.85,USD,debit,Cash out,2023-02-22,amb asg bw aod rq ny,b
+a 1,24.00,USD,debit,Cash out,2023-02-22,amb asg gh anm rq btc,b
+a 1,191.92,USD,debit,Cash out,2023-02-22,amb asg qv bzz rq bku,b
+a 1,144.63,USD,debit,Cash out,2023-02-22,amb asg ub dp rq azw,b
+a 1,20.00,USD,debit,Cash out,2023-02-22,amb asg ub ob rq bgw,b
+a 1,146.05,USD,debit,Cash out,2023-02-22,amb asg ub dp rq cpq,b
+a 1,185.00,USD,debit,Cash out,2023-02-22,amb asg cma ayv ss bmi,b
+a 1,12.00,USD,debit,Cash out,2023-02-22,amb asg gh anm rq aqn,b
+a 1,231.01,USD,debit,Cash out,2023-02-22,amb asg cbe bkn rq bxh,b
+a 1,197.04,USD,debit,Cash out,2023-02-22,cgk aqu cgk alf hc,f
+a 1,"5,578.20",USD,debit,Cash out,2023-02-22,ahm bgm ahm aor aqv,f
+a 1,156.38,USD,debit,Cash out,2023-02-22,amb asg bw aod rq akc,b
+a 1,16.57,USD,debit,Cash out,2023-02-22,amb asg avh ahh rq me,b
+a 1,0.60,USD,debit,Cash out,2023-02-22,amb asg ati baq rq bzt,b
+a 1,66.95,USD,debit,Cash out,2023-02-22,amb asg avh ahh rq azb,b
+a 1,"2,499.75",USD,debit,Cash out,2023-02-22,oy bmm bie oy bla cnf,f
+a 1,64.94,USD,debit,Cash out,2023-02-22,amb asg ub dp rq nz,b
+a 1,167.97,USD,debit,Cash out,2023-02-22,amb asg cma mr mj rq ahl,b
+a 1,91.05,USD,debit,Cash out,2023-02-22,amb asg qv bzz rq pm,b
+a 1,106.01,USD,debit,Cash out,2023-02-22,amb asg cbe cqz rq biw,b
+a 1,90.03,USD,debit,Cash out,2023-02-22,amb asg qv bzz rq biy,b
+a 1,71.87,USD,debit,Cash out,2023-02-22,amb asg ati aqs rq ki,b
+a 1,561.36,USD,debit,Cash out,2023-02-22,bkn aov cfc bkn ayd bim,f
+a 1,3.59,USD,debit,Cash out,2023-02-22,amb asg gh anm rq sd,b
+a 1,126.07,USD,debit,Cash out,2023-02-22,amb asg cbe cqz rq bad,b
+a 1,129.85,USD,debit,Cash out,2023-02-22,amb asg bw aod rq aiy,b
+a 1,200.00,USD,debit,Cash out,2023-02-22,amb asg bw aod rq bbo,b
+a 1,"15,476.07",USD,debit,Cash out,2023-02-22,ayi bj ayi cgc cbk,f
+a 1,"4,057.98",USD,debit,Cash out,2023-02-22,bdc bvv cbt bdc cbe aue,f
+a 1,119.31,USD,debit,Cash out,2023-02-22,amb asg cbe bkc rq afu,b
+a 1,8.23,USD,debit,Cash out,2023-02-22,amb asg ati baq rq cfw,b
+a 1,56.72,USD,debit,Cash out,2023-02-22,amb asg ub dp rq wt,b
+a 1,146.72,USD,debit,Cash out,2023-02-22,amb asg qv bzz rq bfd,b
+a 1,65.08,USD,debit,Cash out,2023-02-22,amb asg ub dp rq bhd,b
+a 1,1.50,USD,debit,Cash out,2023-02-22,amb asg gh anm rq buf,b
+a 1,94.72,USD,debit,Cash out,2023-02-22,amb asg cbe cqz rq awg,b
+a 1,3.50,USD,debit,Cash out,2023-02-22,amb asg qv bzz rq cnu,b
+a 1,105.80,USD,debit,Cash out,2023-02-22,amb asg cbe cqz rq aly,b
+a 1,40.61,USD,debit,Cash out,2023-02-22,amb asg qv bzz rq dj,b
+a 1,"7,005.17",USD,debit,Cash out,2023-02-22,bjx as,c
+a 1,119.00,USD,debit,Cash out,2023-02-22,amb asg cbe ckf ss ph,b
+a 1,271.75,USD,debit,Cash out,2023-02-22,amb asg cma ayv ss anv,b
+a 1,2.30,USD,debit,Cash out,2023-02-22,amb asg qv bzz rq alu,b
+a 1,91.91,USD,debit,Cash out,2023-02-22,amb asg ati aqs rq bsg,b
+a 1,115.00,USD,debit,Cash out,2023-02-22,amb asg avh ahh rq caf,b
+a 1,217.56,USD,debit,Cash out,2023-02-22,amb asg afw bnj rq bi,b
+a 1,533.44,USD,debit,Cash out,2023-02-22,cns ats cns bjc art,f
+a 1,"213,393.71",USD,credit,Cash in,2023-02-22,awi ael auo clr ss bci,d
+a 1,18.99,USD,debit,Cash out,2023-02-22,amb asg avh ahh rq wk,b
+a 1,3.18,USD,debit,Cash out,2023-02-22,amb asg cbe cw rq ke,b
+a 1,705.81,USD,debit,Cash out,2023-02-22,byq ig byq bum cds,f
+a 1,280.06,USD,debit,Cash out,2023-02-22,bqa bjb bqa bjb tm,f
+a 1,197.81,USD,debit,Cash out,2023-02-22,amb asg ub dp rq aff,b
+a 1,128.29,USD,debit,Cash out,2023-02-22,amb asg cbe cqz rq cak,b
+a 1,80.82,USD,debit,Cash out,2023-02-22,amb asg avh ahh rq ccn,b
+a 1,94.68,USD,debit,Cash out,2023-02-22,amb asg cbe cqz rq bzs,b
+a 1,17.75,USD,debit,Cash out,2023-02-22,amb asg avh ahh rq bsr,b
+a 1,18.76,USD,debit,Cash out,2023-02-22,amb asg avh ahh rq vs,b
+a 1,27.50,USD,debit,Cash out,2023-02-22,amb asg gh anm rq beb,b
+a 1,17.25,USD,debit,Cash out,2023-02-22,amb asg gh anm rq afs,b
+a 1,2.40,USD,debit,Cash out,2023-02-22,amb asg hq bwf rq ant,b
+a 1,777.99,USD,debit,Cash out,2023-02-22,od cgp od bvt acu,f
+a 1,6.75,USD,debit,Cash out,2023-02-22,amb asg afw bnj rq cge,b
+a 1,13.20,USD,debit,Cash out,2023-02-22,amb asg gh bbt ss amn,b
+a 1,"1,416.29",USD,debit,Cash out,2023-02-22,bdc bvv cbt bdc cbe cfm,f
+a 1,8.95,USD,debit,Cash out,2023-02-22,amb asg gh anm rq aaj,b
+a 1,180.00,USD,debit,Cash out,2023-02-22,amb asg bw aod rq ahc,b
+a 1,"120,216.76",USD,credit,Cash in,2023-02-22,buy aq ckj,a
+a 2,"33,985.07",USD,credit,Cash in,2023-02-22,buy aq ol,a
+a 3,232.73,USD,debit,Cash out,2023-02-22,amb asg bwx ej rq cy,b
+a 3,100.00,USD,debit,Cash out,2023-02-22,coe crp a aqa hm gn ama crp azc,e
+a 3,"1,849.08",USD,debit,Cash out,2023-02-22,ban cdc agj bza,d
+a 3,"1,463.47",USD,credit,Cash in,2023-02-22,ky aqg clr ai cgz,d
+a 3,"2,223.00",USD,credit,Cash in,2023-02-22,ky aqg clr ai bso,d
+a 3,"2,849.15",USD,debit,Cash out,2023-02-22,ban cdc agj akt,d
+a 3,"1,037.40",USD,debit,Cash out,2023-02-22,ban cdc agj akq,d
+a 3,41.05,USD,debit,Cash out,2023-02-22,amb asg gh chp rq bfq,b
+a 3,"2,463.83",USD,debit,Cash out,2023-02-22,ban cdc agj bst,d
+a 3,"2,186.69",USD,debit,Cash out,2023-02-22,ban cdc agj als,d
+a 3,"1,970.85",USD,credit,Cash in,2023-02-22,nj cdc ha rq cda,d
+a 3,"8,414.12",USD,debit,Cash out,2023-02-22,ban cdc agj ckh,d
+a 3,"1,674.31",USD,credit,Cash in,2023-02-22,nj cdc ha rq acg,d
+a 3,"3,334.50",USD,debit,Cash out,2023-02-22,ban cdc agj lf,d
+a 3,"3,001.51",USD,debit,Cash out,2023-02-22,ban cdc agj aya,d
+a 3,17.83,USD,debit,Cash out,2023-02-22,amb asg cbe cmv rq bli,b
+a 3,27.90,USD,credit,Cash in,2023-02-22,coe crp axl aev bh xy ama crp bfk,e
+a 3,"1,482.00",USD,debit,Cash out,2023-02-22,ban cdc agj asp,d
+a 3,"1,037.40",USD,credit,Cash in,2023-02-22,ky aqg clr ai aeq,d
+a 3,197.73,USD,debit,Cash out,2023-02-22,amb asg cbe cmv rq cqn,b
+a 3,"1,482.00",USD,credit,Cash in,2023-02-22,ky aqg clr ai ajg,d
+a 3,"1,256.24",USD,debit,Cash out,2023-02-22,ban cdc agj cal,d
+a 3,"2,964.00",USD,credit,Cash in,2023-02-22,ky aqg clr ai yo,d
+a 3,"1,510.89",USD,debit,Cash out,2023-02-22,ban cdc agj xn,d
+a 3,"1,816.19",USD,debit,Cash out,2023-02-22,ban cdc agj bdf,d
+a 3,"2,186.69",USD,debit,Cash out,2023-02-22,ban cdc agj bsn,d
+a 3,"1,568.70",USD,debit,Cash out,2023-02-22,ban cdc agj ts,d
+a 3,"4,255.12",USD,debit,Cash out,2023-02-22,ban cdc agj bmn,d
+a 3,815.10,USD,debit,Cash out,2023-02-22,ban cdc agj qs,d
+a 3,"1,852.50",USD,credit,Cash in,2023-02-22,ky aqg clr ai chu,d
+a 3,"3,298.19",USD,debit,Cash out,2023-02-22,ban cdc agj arg,d
+a 3,175.00,USD,debit,Cash out,2023-02-22,amb asg gh chp rq byg,b
+a 3,"5,779.80",USD,credit,Cash in,2023-02-22,ky aqg clr ai qb,d
+a 3,"1,816.19",USD,debit,Cash out,2023-02-22,ban cdc agj bky,d
+a 3,926.25,USD,debit,Cash out,2023-02-22,ban cdc agj ali,d
+a 3,"2,000.70",USD,debit,Cash out,2023-02-22,ban cdc agj xv,d
+a 3,"1,433.16",USD,debit,Cash out,2023-02-22,ban cdc agj aav,d
+a 3,"2,037.75",USD,credit,Cash in,2023-02-22,ky aqg clr ai blr,d
+a 3,"2,223.00",USD,credit,Cash in,2023-02-22,ky aqg clr ai cjb,d
+c 6,956.28,USD,credit,Cash in,2023-02-22,buy aq du,a
+a 1,2.50,USD,debit,Cash out,2023-02-21,amb asg abc bpo ih bqb,b
+a 1,190.75,USD,debit,Cash out,2023-02-21,amb asg gh che ih h,b
+a 1,"3,240.58",USD,debit,Cash out,2023-02-21,bjx as,c
+a 1,433.67,USD,debit,Cash out,2023-02-21,amb asg bw clw ih bfu,b
+a 1,7.00,USD,debit,Cash out,2023-02-21,amb asg cbe cbr ih fu,b
+a 1,"12,199.38",USD,debit,Cash out,2023-02-21,bjx as,c
+a 1,119.31,USD,debit,Cash out,2023-02-21,amb asg cbe bkc ih cdd,b
+a 1,"3,087.50",USD,debit,Cash out,2023-02-21,bjx as,c
+a 1,326.50,USD,debit,Cash out,2023-02-21,amb asg gh che ih bve,b
+a 1,435.00,USD,debit,Cash out,2023-02-21,amb asg bw cow ih bqx,b
+a 1,1.50,USD,debit,Cash out,2023-02-21,amb asg bie bmb ih dh,b
+a 1,"8,048.68",USD,debit,Cash out,2023-02-21,bjx as,c
+a 1,6.60,USD,debit,Cash out,2023-02-21,amb asg cbe cw ih ago,b
+a 1,762.43,USD,credit,Cash in,2023-02-21,yg bfv ih bpf,c
+a 1,177.54,USD,debit,Cash out,2023-02-21,bjx as,c
+a 1,256.55,USD,debit,Cash out,2023-02-21,bjx as,c
+a 1,92.66,USD,debit,Cash out,2023-02-21,amb asg ip wu ih bgq,b
+a 1,750.00,USD,debit,Cash out,2023-02-21,amb asg hq bwf ih atq,b
+a 1,5.00,USD,debit,Cash out,2023-02-21,amb asg bie cnk ih bmp,b
+a 1,"7,144.43",USD,debit,Cash out,2023-02-21,bjx as,c
+a 1,190.75,USD,debit,Cash out,2023-02-21,amb asg gh che ih aif,b
+a 1,"48,687.07",USD,credit,Cash in,2023-02-21,awi ael auo clr rq bci,d
+a 1,8.00,USD,debit,Cash out,2023-02-21,amb asg ip coy ih bpg,b
+a 1,190.75,USD,debit,Cash out,2023-02-21,amb asg gh che ih bty,b
+a 1,45.00,USD,debit,Cash out,2023-02-21,amb asg avh ahh ih amm,b
+a 1,10.50,USD,debit,Cash out,2023-02-21,amb asg bw clw ih ys,b
+a 1,236.00,USD,debit,Cash out,2023-02-21,amb asg gh che ih brn,b
+a 1,10.00,USD,debit,Cash out,2023-02-21,amb asg bie cnk ih axm,b
+a 1,"88,971.66",USD,credit,Cash in,2023-02-21,buy aq fi,a
+a 2,"12,385.70",USD,credit,Cash in,2023-02-21,buy aq bfz,a
+a 3,"1,389.37",USD,credit,Cash in,2023-02-21,ky aqg clr ai oq,d
+a 3,"2,223.00",USD,credit,Cash in,2023-02-21,ky aqg clr ai avk,d
+a 3,"1,911.82",USD,credit,Cash in,2023-02-21,nj cdc ha ih qj,d
+a 3,"1,852.50",USD,credit,Cash in,2023-02-21,ky aqg clr ai bmz,d
+a 3,"1,257.92",USD,debit,Cash out,2023-02-21,bhf yl ci adk bhf yl bbw,c
+a 3,1.07,USD,credit,Cash in,2023-02-21,coe crp bfj aev cba byd ama crp bru,e
+a 3,"1,482.00",USD,credit,Cash in,2023-02-21,ky aqg clr ai un,d
+a 3,"3,149.25",USD,credit,Cash in,2023-02-21,ky aqg clr ai aje,d
+a 3,"2,964.00",USD,credit,Cash in,2023-02-21,ky aqg clr ai mf,d
+a 3,"2,111.85",USD,credit,Cash in,2023-02-21,ky aqg clr ai gm,d
+a 3,"3,705.00",USD,credit,Cash in,2023-02-21,ky aqg clr ai axx,d
+a 3,"1,482.00",USD,credit,Cash in,2023-02-21,ky aqg clr ai ase,d
+a 3,741.00,USD,credit,Cash in,2023-02-21,ky aqg clr ai btz,d
+a 3,"4,742.40",USD,credit,Cash in,2023-02-21,ky aqg clr ai bqm,d
+a 3,"5,557.50",USD,credit,Cash in,2023-02-21,ky aqg clr ai brk,d
+c 6,325.80,USD,credit,Cash in,2023-02-21,buy aq alc,a
+a 1,"1,166.54",USD,debit,Cash out,2023-02-17,xw bno xw bwx agu,f
+a 1,"12,223.98",USD,debit,Cash out,2023-02-17,bqt afr bqt gd il,f
+a 1,533.44,USD,debit,Cash out,2023-02-17,cre acj cre aul awu,f
+a 1,"2,795.88",USD,debit,Cash out,2023-02-17,cpo col cpo fe cgi,f
+a 1,"2,742.02",USD,debit,Cash out,2023-02-17,bxq kk bxq azr bbv,f
+a 1,636.79,USD,debit,Cash out,2023-02-17,bkc ew bog bkc bsd nf,f
+a 1,"14,992.69",USD,debit,Cash out,2023-02-17,ahm bgm ahm aor bll,f
+a 1,376.42,USD,debit,Cash out,2023-02-17,anq ata anq cjt dv,f
+a 1,"2,922.08",USD,debit,Cash out,2023-02-17,cmt apr cmt ati aah,f
+a 1,"1,197.43",USD,debit,Cash out,2023-02-17,ars avn ars hg rl,f
+a 1,844.17,USD,debit,Cash out,2023-02-17,ahy aam z ahy bog cgx,f
+a 1,"1,356.54",USD,debit,Cash out,2023-02-17,caw mn caw cct aid,f
+a 1,"3,316.80",USD,debit,Cash out,2023-02-17,be gp be vr biv,f
+a 1,495.10,USD,debit,Cash out,2023-02-17,cgn avn cgn avn bre,f
+a 1,466.89,USD,debit,Cash out,2023-02-17,cio cjf cio cjf abr,f
+a 1,"6,234.77",USD,debit,Cash out,2023-02-17,beo cdn beo amt bgf,f
+a 1,"3,211.12",USD,debit,Cash out,2023-02-17,abg cca adi abg cca gh ckw,f
+a 1,"2,014.32",USD,debit,Cash out,2023-02-17,xj ub cel iq xj ub lm o,f
+a 1,"3,466.58",USD,debit,Cash out,2023-02-17,cho awn cho brb bwl,f
+a 1,"1,639.91",USD,debit,Cash out,2023-02-17,zn qx zn fc yt,f
+a 1,266.50,USD,debit,Cash out,2023-02-17,axo apq axo gh att,f
+a 1,841.25,USD,debit,Cash out,2023-02-17,bmg aal bmg bue bxw,f
+a 1,"3,660.75",USD,debit,Cash out,2023-02-17,arq aae arq aoj bsb,f
+a 1,"5,406.79",USD,debit,Cash out,2023-02-17,ayc cji ayc sn og,f
+a 1,"1,786.03",USD,debit,Cash out,2023-02-17,hx do hx ckx bhm,f
+a 1,901.91,USD,debit,Cash out,2023-02-17,caw aot caw gc cnb,f
+a 1,"3,783.58",USD,debit,Cash out,2023-02-17,alh aj alh cgv aum,f
+a 1,"1,614.42",USD,debit,Cash out,2023-02-17,xk crl xk ah aoe,f
+a 1,"4,199.36",USD,debit,Cash out,2023-02-17,mw cah z mw ayt ajj,f
+a 1,"3,327.76",USD,debit,Cash out,2023-02-17,apn d apn aim bqs,f
+a 1,853.50,USD,debit,Cash out,2023-02-17,aam cga baa bw aam jm yq,f
+a 1,659.93,USD,debit,Cash out,2023-02-17,clc anp clc bug bok,f
+a 1,"5,460.55",USD,debit,Cash out,2023-02-17,aam jm baa cbj aam jm bgd,f
+a 1,"2,718.75",USD,debit,Cash out,2023-02-17,cfk ahs cfk bpy bob,f
+a 1,"5,146.49",USD,debit,Cash out,2023-02-17,wz wn wz kx rh,f
+a 1,"1,895.85",USD,debit,Cash out,2023-02-17,bwz cpx bwz bpt bfa,f
+a 1,365.83,USD,debit,Cash out,2023-02-17,mw aam jm boo mw aam bwm vu,f
+a 1,"14,506.79",USD,debit,Cash out,2023-02-17,aam jm baa pf aam jm clz,f
+a 1,"2,899.71",USD,debit,Cash out,2023-02-17,aam jm baa ben aam jm gl,f
+a 1,"5,519.84",USD,debit,Cash out,2023-02-17,ajc kp ajc bav cin,f
+a 1,"4,254.84",USD,debit,Cash out,2023-02-17,kj civ atl kj civ jb ccq,f
+a 1,"25,226.65",USD,debit,Cash out,2023-02-17,hl aam hl bog lw,f
+a 1,262.72,USD,debit,Cash out,2023-02-17,cnl aru cnl uz auk,f
+a 1,"1,100.01",USD,debit,Cash out,2023-02-17,kj bxf kj aia aer,f
+a 1,304.82,USD,debit,Cash out,2023-02-17,bpu ti bpu cek lq,f
+a 1,"19,089.81",USD,debit,Cash out,2023-02-17,ayi bj ayi cgc cll,f
+a 1,"3,988.14",USD,debit,Cash out,2023-02-17,dm aea dm abc acc,f
+a 1,"5,248.77",USD,debit,Cash out,2023-02-17,cns com cns com coi,f
+a 1,"6,056.64",USD,debit,Cash out,2023-02-17,aam jm baa bpt aam jm btv,f
+a 1,"4,287.30",USD,debit,Cash out,2023-02-17,cpv bhk cpv ckk,f
+a 1,"4,480.48",USD,debit,Cash out,2023-02-17,ccw ckf ccw bdb,f
+a 1,"3,541.31",USD,debit,Cash out,2023-02-17,aam jm baa fs aam jm vz,f
+a 1,"8,122.19",USD,debit,Cash out,2023-02-17,caw btr caw bmx az,f
+a 1,"6,159.18",USD,debit,Cash out,2023-02-17,kt aaw kt aim crf,f
+a 1,"1,633.38",USD,debit,Cash out,2023-02-17,bpp abl bpp cgf,f
+a 1,"4,509.13",USD,debit,Cash out,2023-02-17,xu qr xu bon,f
+a 1,"4,959.93",USD,debit,Cash out,2023-02-17,wz xq wz im ek,f
+a 1,654.63,USD,debit,Cash out,2023-02-17,qd hu qd cek tb,f
+a 1,"5,324.11",USD,debit,Cash out,2023-02-17,bdl bed cag bdl bed abc zy,f
+a 1,"3,025.37",USD,debit,Cash out,2023-02-17,byq bbg byq c abv,f
+a 1,"1,394.93",USD,debit,Cash out,2023-02-17,cdv bnu cdv fo ww,f
+a 1,220.04,USD,debit,Cash out,2023-02-17,aam jm baa avi aam jm cnr,f
+a 1,"1,983.83",USD,debit,Cash out,2023-02-17,dg cbu dg bdt aem,f
+a 1,"1,958.49",USD,debit,Cash out,2023-02-17,adf lu adf bbr aho,f
+a 1,819.16,USD,debit,Cash out,2023-02-17,nd cqa nd aoj bmc,f
+a 1,"9,269.99",USD,debit,Cash out,2023-02-17,bzb bfy bzb clt avs,f
+a 1,"1,533.18",USD,debit,Cash out,2023-02-17,ba agt ba cpz awp,f
+a 1,516.83,USD,debit,Cash out,2023-02-17,bpk bae bpk zj,f
+a 1,"9,050.14",USD,debit,Cash out,2023-02-17,cby cnk cby ip auz,f
+a 1,"1,877.20",USD,debit,Cash out,2023-02-17,aam jm baa bwu aam jm cgs,f
+a 1,103.98,USD,debit,Cash out,2023-02-17,aam jm baa ot aam jm bqf,f
+a 1,"8,936.19",USD,debit,Cash out,2023-02-17,asx cai asx bvt bxn,f
+a 1,"1,981.73",USD,debit,Cash out,2023-02-17,asc avw asc ly,f
+a 1,913.40,USD,debit,Cash out,2023-02-17,adp ahe adp bz cie,f
+a 1,"6,588.16",USD,debit,Cash out,2023-02-17,cfp aaw cfp bfi bxo,f
+a 1,"1,961.95",USD,debit,Cash out,2023-02-17,cv xd iz cv xd hh,f
+a 1,659.93,USD,debit,Cash out,2023-02-17,bop cjx bop py ann,f
+a 1,416.75,USD,debit,Cash out,2023-02-17,cnp cnp azh cnp bhe abm,f
+a 1,"2,933.51",USD,debit,Cash out,2023-02-17,bih ma bih bvh cdt,f
+a 1,"5,095.85",USD,debit,Cash out,2023-02-17,dm bhy dm ub sj,f
+a 1,"1,639.83",USD,debit,Cash out,2023-02-17,azd dl azd rb buv,f
+a 1,"18,797.25",USD,debit,Cash out,2023-02-17,boy bbx ub boy cgp rk,f
+a 1,"5,382.41",USD,debit,Cash out,2023-02-17,byo ld bjo byo ld bgk,f
+a 1,"1,097.56",USD,debit,Cash out,2023-02-17,auj aqe auj apf abi,f
+a 1,"1,050.22",USD,debit,Cash out,2023-02-17,hy ahd hy cln,f
+a 1,"6,780.93",USD,debit,Cash out,2023-02-17,bww aze bww asi crj,f
+a 1,"10,537.00",USD,debit,Cash out,2023-02-17,cbv bjl cbv bcp cdj,f
+a 1,"3,049.72",USD,debit,Cash out,2023-02-17,dm lc dm ati ara,f
+a 1,"1,925.15",USD,debit,Cash out,2023-02-17,bjk aga bjk aad ayz,f
+a 1,"3,841.74",USD,debit,Cash out,2023-02-17,ajs bo ajs iu bzu,f
+a 1,"2,292.86",USD,debit,Cash out,2023-02-17,ala axw ala qv bcv,f
+a 1,"3,978.59",USD,debit,Cash out,2023-02-17,cgk aqu cgk alf yv,f
+a 1,14.64,USD,debit,Cash out,2023-02-17,amb asg bw cbs bzi agg,b
+a 1,"2,323.50",USD,debit,Cash out,2023-02-17,baq nx jx baq aam,f
+a 1,942.22,USD,debit,Cash out,2023-02-17,bzw arj bzw buu,f
+a 1,916.86,USD,debit,Cash out,2023-02-17,lt bnk lt aut za,f
+a 1,638.46,USD,debit,Cash out,2023-02-17,cql car cql qe sr,f
+a 1,"5,417.54",USD,debit,Cash out,2023-02-17,bgc on bgc aw bqu,f
+a 1,"1,182.75",USD,debit,Cash out,2023-02-17,ahx brv amy bdt ahx brv bud axq,f
+a 1,816.83,USD,debit,Cash out,2023-02-17,cqx ayb cqx afa,f
+a 1,"1,590.73",USD,debit,Cash out,2023-02-17,cns abq cns abq ckv,f
+a 1,750.15,USD,debit,Cash out,2023-02-17,xh bed bov xh bxz mb,f
+a 1,349.96,USD,debit,Cash out,2023-02-17,pl cfz aam pl axd to,f
+a 1,275.06,USD,debit,Cash out,2023-02-17,cfp avl cfp cc cmi,f
+a 1,"1,230.25",USD,debit,Cash out,2023-02-17,azn bbg cbe azn bis alt,f
+a 1,700.00,USD,debit,Cash out,2023-02-17,yr bfm yr awf ciy,f
+a 1,"1,654.31",USD,debit,Cash out,2023-02-17,od ayv od bhi aex,f
+a 1,233.38,USD,debit,Cash out,2023-02-17,cho bqv cho atc apg,f
+a 1,"9,719.53",USD,debit,Cash out,2023-02-17,byu caa byu fl axk,f
+a 1,371.68,USD,debit,Cash out,2023-02-17,cme byl cme brd bnd,f
+a 1,"5,839.40",USD,debit,Cash out,2023-02-17,bfg aof pi bfg aof wd,f
+a 1,"4,683.81",USD,debit,Cash out,2023-02-17,bwk blp bwk cjz abo,f
+a 1,"2,784.88",USD,debit,Cash out,2023-02-17,dm cgu dm hq bij,f
+a 1,"8,217.19",USD,debit,Cash out,2023-02-17,s axn s vo btd,f
+a 1,"5,687.27",USD,debit,Cash out,2023-02-17,od cgp od bvt ard,f
+a 1,"1,373.83",USD,debit,Cash out,2023-02-17,ajr jt ajr bie aak,f
+a 1,330.07,USD,debit,Cash out,2023-02-17,byx pd byx bie cgd,f
+a 1,"6,198.66",USD,debit,Cash out,2023-02-17,abg ec abg pq bne,f
+a 1,536.78,USD,debit,Cash out,2023-02-17,tv ca tv bzf btl,f
+a 1,26.48,USD,debit,Cash out,2023-02-17,bev ku bev cnw ge,f
+a 1,"3,172.01",USD,debit,Cash out,2023-02-17,aam arx baa cik aam arx aui,f
+a 1,"5,547.69",USD,debit,Cash out,2023-02-17,en cw bog en bmo amj,f
+a 1,"1,930.04",USD,debit,Cash out,2023-02-17,aam jm baa vr aam jm api,f
+a 1,"2,398.09",USD,debit,Cash out,2023-02-17,kj acz kj bef any,f
+a 1,"4,387.37",USD,debit,Cash out,2023-02-17,zi gv zi afl,f
+a 1,220.04,USD,debit,Cash out,2023-02-17,aka cnz aka ub asb,f
+a 1,"1,033.04",USD,debit,Cash out,2023-02-17,aqy aam z aqy bog coa,f
+a 1,"9,979.07",USD,debit,Cash out,2023-02-17,cap cjv cap bkd cju,f
+a 1,466.62,USD,debit,Cash out,2023-02-17,aam jm baa bay aam jm clx,f
+a 1,"7,544.84",USD,debit,Cash out,2023-02-17,bdx bge awr bdx bge aih,f
+a 1,506.77,USD,debit,Cash out,2023-02-17,bkc cn bkc cax qu,f
+a 1,"10,071.22",USD,debit,Cash out,2023-02-17,kj qq kj qq apc,f
+a 1,"3,028.26",USD,debit,Cash out,2023-02-17,bqi ahh bqi fs afg,f
+a 1,"2,397.98",USD,debit,Cash out,2023-02-17,bws bj bws bj bhw,f
+a 1,836.37,USD,debit,Cash out,2023-02-17,aib bks aib btj blg,f
+a 1,"4,654.06",USD,debit,Cash out,2023-02-17,bbb yj bbb fl amu,f
+a 1,"1,039.99",USD,debit,Cash out,2023-02-17,kv bxr kv ua,f
+a 1,"3,156.24",USD,debit,Cash out,2023-02-17,ale aei ale bpt xf,f
+a 1,"2,995.17",USD,debit,Cash out,2023-02-17,gf bor gf asm bjz,f
+a 1,"8,064.03",USD,debit,Cash out,2023-02-17,cld abp cld sk bxg,f
+a 1,"1,259.02",USD,debit,Cash out,2023-02-17,cio nr hv cio nr bzf cjp,f
+a 1,"5,753.10",USD,debit,Cash out,2023-02-17,bqa bjb bqa bjb afh,f
+a 1,"1,070.52",USD,debit,Cash out,2023-02-17,bqy aam bqy bog xo,f
+a 1,"2,503.16",USD,debit,Cash out,2023-02-17,ciz cfq ciz chq ced,f
+a 1,"10,001.72",USD,debit,Cash out,2023-02-17,bjk abh bjk bgy dn,f
+a 1,500.10,USD,debit,Cash out,2023-02-17,bmg acs bmg bkh clf,f
+a 1,996.20,USD,debit,Cash out,2023-02-17,ayb pv ayb ne zu,f
+a 1,760.04,USD,debit,Cash out,2023-02-17,aam jm baa qc aam jm mu,f
+a 1,275.06,USD,debit,Cash out,2023-02-17,ex bsa ex bsa pr,f
+a 1,"4,755.58",USD,debit,Cash out,2023-02-17,bch atp bch ud bpq,f
+a 1,"9,004.16",USD,debit,Cash out,2023-02-17,ael aam cjk ael aam hq cls,f
+a 1,"1,489.81",USD,debit,Cash out,2023-02-17,bwe anf bwe io ws,f
+a 1,"6,573.84",USD,debit,Cash out,2023-02-17,cio aic abf cio aic bnt ow,f
+a 1,69.93,USD,debit,Cash out,2023-02-17,bjy bod bjy cfb bzj,f
+a 1,"3,697.36",USD,debit,Cash out,2023-02-17,ap ea ap bw bai,f
+a 1,"1,825.17",USD,debit,Cash out,2023-02-17,aab ash aab qi bsj,f
+a 1,"3,690.24",USD,debit,Cash out,2023-02-17,ccj atg ccj cnh cis,f
+a 1,961.20,USD,debit,Cash out,2023-02-17,cqe cjx cqe py cii,f
+a 1,"2,807.57",USD,debit,Cash out,2023-02-17,bvl bdq bvl abc ed,f
+a 1,"2,271.63",USD,debit,Cash out,2023-02-17,ze bwv ze bwv bry,f
+a 1,"8,319.61",USD,debit,Cash out,2023-02-17,mw sq z mw akx bqo,f
+a 1,"1,049.89",USD,debit,Cash out,2023-02-17,bfo aie bfo jb ajl,f
+a 1,"2,376.56",USD,debit,Cash out,2023-02-17,kj adr kj adr cdx,f
+a 1,"1,936.38",USD,debit,Cash out,2023-02-17,eg bw aug eg bw rc cdu,f
+a 1,"1,500.03",USD,debit,Cash out,2023-02-17,l ab l adx aoc,f
+a 1,"6,034.27",USD,debit,Cash out,2023-02-17,od cpu od bjw cbh,f
+a 1,583.27,USD,debit,Cash out,2023-02-17,bws bz bws bz avt,f
+a 1,"2,905.75",USD,debit,Cash out,2023-02-17,bzc aft bzc wi avp,f
+a 1,408.08,USD,debit,Cash out,2023-02-17,ain ld bgg ain ld asv,f
+a 1,105.05,USD,debit,Cash out,2023-02-17,amb asg cma mr mj bzi aky,b
+a 1,"2,486.18",USD,debit,Cash out,2023-02-17,aam jm baa cr aam jm bby,f
+a 1,"1,533.64",USD,debit,Cash out,2023-02-17,oy bmm bie oy bla clh,f
+a 1,"2,981.07",USD,debit,Cash out,2023-02-17,bws box bws blx aql,f
+a 1,980.00,USD,debit,Cash out,2023-02-17,mi boh mi agh all,f
+a 1,"1,775.15",USD,debit,Cash out,2023-02-17,cbi bzy cbi bzo de,f
+a 1,347.74,USD,debit,Cash out,2023-02-17,va bvq va jl k,f
+a 1,"1,725.03",USD,debit,Cash out,2023-02-17,bop cfo bop bnp xi,f
+a 1,"3,962.31",USD,debit,Cash out,2023-02-17,bxi wm bxi bvk clj,f
+a 1,"4,029.47",USD,debit,Cash out,2023-02-17,aam jm baa zc aam jm cmu,f
+a 1,"1,125.23",USD,debit,Cash out,2023-02-17,qw qy qw bwx arw,f
+a 1,"2,750.37",USD,debit,Cash out,2023-02-17,byi bmm byi bm el,f
+a 1,"1,156.13",USD,debit,Cash out,2023-02-17,jy aam jm jy aam fh,f
+a 1,516.77,USD,debit,Cash out,2023-02-17,afd aov auo afd aov vc,f
+a 1,"2,910.74",USD,debit,Cash out,2023-02-17,fd cra fd ri uy,f
+a 1,"3,214.46",USD,debit,Cash out,2023-02-17,ayy wp ayy cnj bqd,f
+a 1,"6,532.01",USD,debit,Cash out,2023-02-17,jo kd nx jo kd,f
+a 1,660.14,USD,debit,Cash out,2023-02-17,cid or cid btf adz,f
+a 1,"8,753.55",USD,debit,Cash out,2023-02-17,cno arr cno avh cqs,f
+a 1,966.71,USD,debit,Cash out,2023-02-17,cfp azi cfp bkd agv,f
+a 1,208.25,USD,debit,Cash out,2023-02-17,mw awx aam bdt mw awx cay,f
+a 1,"1,565.83",USD,debit,Cash out,2023-02-17,bdx pn bdx cpj oe,f
+a 1,201.51,USD,debit,Cash out,2023-02-17,bww mr mj bww mr clu,f
+a 1,"64,832.71",USD,debit,Cash out,2023-02-17,xk bu xk bpn es,f
+a 1,799.92,USD,debit,Cash out,2023-02-17,tz cqr tz sl ber,f
+a 1,"1,897.48",USD,debit,Cash out,2023-02-17,ciz ajb ciz ajb apj,f
+a 1,"2,373.81",USD,debit,Cash out,2023-02-17,aoz bsq aoz brx ahg,f
+a 1,"2,869.68",USD,debit,Cash out,2023-02-17,apv cgp apv cc bnf,f
+a 1,"4,377.73",USD,debit,Cash out,2023-02-17,up cjh up tp bk,f
+a 1,"2,984.65",USD,debit,Cash out,2023-02-17,acp cdk acp bpt uj,f
+a 1,"10,691.39",USD,debit,Cash out,2023-02-17,bko jw bko ayf kz,f
+a 1,"8,645.80",USD,debit,Cash out,2023-02-17,zk wa zk te azl,f
+a 1,"4,430.03",USD,debit,Cash out,2023-02-17,abz ana abz aes hr,f
+a 1,"2,306.64",USD,debit,Cash out,2023-02-17,uc fg uc ja cmf,f
+a 1,"4,287.04",USD,debit,Cash out,2023-02-17,bop crb bop bjt bes,f
+a 1,"1,609.62",USD,debit,Cash out,2023-02-17,bwg cpn bwg hq ml,f
+a 1,"9,231.18",USD,debit,Cash out,2023-02-17,ayp aas ayp auf aws,f
+a 1,"2,207.13",USD,debit,Cash out,2023-02-17,fy bjp fy atk arv,f
+a 1,"5,946.30",USD,debit,Cash out,2023-02-17,mw cjn aam mw amc chs,f
+a 1,"1,046.35",USD,debit,Cash out,2023-02-17,mw aam jm boo mw aam bwm ath,f
+a 1,"3,121.75",USD,debit,Cash out,2023-02-17,awv aam z awv bog cee,f
+a 1,"2,665.52",USD,debit,Cash out,2023-02-17,ahi hs ahi avy alr,f
+a 1,980.18,USD,debit,Cash out,2023-02-17,qf cod qf cd aee,f
+a 1,313.10,USD,debit,Cash out,2023-02-17,mw aam jm boo mw aam bwm mk,f
+a 1,822.72,USD,debit,Cash out,2023-02-17,vh acn vh tf fv,f
+a 1,"2,985.63",USD,debit,Cash out,2023-02-17,gf afx gf bmf azj,f
+a 1,"2,640.01",USD,debit,Cash out,2023-02-17,ac ji ac buk ame,f
+a 1,"2,157.77",USD,debit,Cash out,2023-02-17,awh bfw awh cfn,f
+a 1,959.90,USD,debit,Cash out,2023-02-17,sg ccb sg nh azo,f
+a 1,233.38,USD,debit,Cash out,2023-02-17,ccw ckl ccw aiv,f
+a 1,"2,119.85",USD,debit,Cash out,2023-02-17,ayb cpc ayb atr ccf,f
+a 1,"3,266.98",USD,debit,Cash out,2023-02-17,apw bol apw buw afz,f
+a 1,"4,557.26",USD,debit,Cash out,2023-02-17,bzk bwn bzk cou clk,f
+a 1,816.83,USD,debit,Cash out,2023-02-17,ko chh ko bdj bkb,f
+a 1,385.08,USD,debit,Cash out,2023-02-17,bvq aam fn gh bvq aam akp,f
+a 1,"4,050.01",USD,debit,Cash out,2023-02-17,gu aam caq gu agy,f
+a 1,911.27,USD,debit,Cash out,2023-02-17,bzc cli bzc ben acf,f
+a 1,683.48,USD,debit,Cash out,2023-02-17,bzv cif bzv afw bbc,f
+a 1,"3,248.00",USD,debit,Cash out,2023-02-17,je sy je pb nu,f
+a 1,"3,414.28",USD,debit,Cash out,2023-02-17,aip ahv ie aip bma buh,f
+a 1,60.84,USD,debit,Cash out,2023-02-17,bjq qh bjq bwt afm,f
+a 1,"7,848.94",USD,debit,Cash out,2023-02-17,byq ig byq bum bxu,f
+a 1,"8,667.26",USD,debit,Cash out,2023-02-17,aox aam bxl aox aam,f
+a 1,550.12,USD,debit,Cash out,2023-02-17,zm acr zm bdp ccy,f
+a 1,525.11,USD,debit,Cash out,2023-02-17,mw bcg aam bxl mw bcg aam,f
+a 1,"2,393.20",USD,debit,Cash out,2023-02-17,mq lk mq ho aoa,f
+a 1,"2,193.20",USD,debit,Cash out,2023-02-17,kv ayb kv bvn,f
+a 1,"8,545.61",USD,debit,Cash out,2023-02-17,abl ld aat abl ld bw bml,f
+a 1,"2,359.92",USD,debit,Cash out,2023-02-17,axh aaq axh su bkw,f
+a 1,190.04,USD,debit,Cash out,2023-02-17,mw we aam mw bwd chc,f
+a 1,"2,429.95",USD,debit,Cash out,2023-02-17,zg clb zg bld bde,f
+a 1,"1,891.22",USD,debit,Cash out,2023-02-17,bwy cgw bwy,f
+a 1,940.18,USD,debit,Cash out,2023-02-17,io aty io alv cgo,f
+a 1,"3,477.13",USD,debit,Cash out,2023-02-17,aii aiw aii pb cpg,f
+a 1,"1,477.89",USD,debit,Cash out,2023-02-17,ajy uh ajy bpw bqr,f
+a 1,439.96,USD,debit,Cash out,2023-02-17,mw aam jm boo mw aam bwm bga,f
+a 1,405.58,USD,debit,Cash out,2023-02-17,u yy u atk w,f
+a 1,941.02,USD,debit,Cash out,2023-02-17,bop crb bop bjt fw,f
+a 1,466.76,USD,debit,Cash out,2023-02-17,cka avm agf cka avm bzh,f
+a 1,"10,051.77",USD,debit,Cash out,2023-02-17,cbs aam cja cbs bog qo,f
+a 1,903.92,USD,debit,Cash out,2023-02-17,alb aam alb bog cfe,f
+a 1,"3,366.59",USD,debit,Cash out,2023-02-17,chy che chy cot ciw,f
+a 1,"2,450.00",USD,debit,Cash out,2023-02-17,anh aie anh aie akv,f
+a 1,297.46,USD,debit,Cash out,2023-02-17,bzb vw bzb adm cl,f
+a 1,188.10,USD,debit,Cash out,2023-02-17,cnl ks cnl ave cgt,f
+a 1,"2,501.75",USD,debit,Cash out,2023-02-17,bey cfh bey aao cit,f
+a 1,554.11,USD,debit,Cash out,2023-02-17,va ccc va td btm,f
+a 1,357.08,USD,debit,Cash out,2023-02-17,bri bal bri asm abn,f
+a 1,"6,795.10",USD,debit,Cash out,2023-02-17,asu qm asu hb aso,f
+a 1,349.88,USD,debit,Cash out,2023-02-17,aku brs aku alo cij,f
+a 1,"1,319.76",USD,debit,Cash out,2023-02-17,aoz bsq aoz brx adc,f
+a 1,"5,824.64",USD,debit,Cash out,2023-02-17,bkc xd ack bkc xd aeo,f
+a 1,"1,253.58",USD,debit,Cash out,2023-02-17,ami bka ami bpa ga,f
+a 1,"2,563.07",USD,debit,Cash out,2023-02-17,act le act vq apu,f
+a 1,"16,582.88",USD,debit,Cash out,2023-02-17,bih xd mc bih xd bie lj,f
+a 1,"4,206.72",USD,debit,Cash out,2023-02-17,chy abj chy arf akf,f
+a 1,"8,918.92",USD,debit,Cash out,2023-02-17,bpp bj bpp bgo,f
+a 1,935.06,USD,debit,Cash out,2023-02-17,abg aja abg azm cgl,f
+a 1,"8,759.13",USD,debit,Cash out,2023-02-17,atz aqs atz bwx qg,f
+a 1,"5,704.39",USD,debit,Cash out,2023-02-17,bnl sh bnl bzp ani,f
+a 1,"1,549.96",USD,debit,Cash out,2023-02-17,xj pe xj cmx ckr,f
+a 1,"1,353.20",USD,debit,Cash out,2023-02-17,mw arn aam bdt mw arn bsv,f
+a 1,258.36,USD,debit,Cash out,2023-02-17,cpr akn cpr bma bgz,f
+a 1,"1,128.90",USD,debit,Cash out,2023-02-17,azx clm azx jb aud,f
+a 1,"1,823.54",USD,debit,Cash out,2023-02-17,dm zr dm bwx asq,f
+a 1,"5,900.88",USD,debit,Cash out,2023-02-17,cfd bhl cfd cqg br,f
+a 1,"6,545.86",USD,debit,Cash out,2023-02-17,arq cqz arq wc ams,f
+a 1,"3,640.33",USD,debit,Cash out,2023-02-17,arb aat arb fp bbd,f
+a 1,851.84,USD,debit,Cash out,2023-02-17,aiz sm aiz bgi ru,f
+a 1,"3,696.57",USD,debit,Cash out,2023-02-17,bet bd bet ip atv,f
+a 1,330.07,USD,debit,Cash out,2023-02-17,gb aam bdt gb cms,f
+a 1,"1,519.85",USD,debit,Cash out,2023-02-17,cfa ib cfa bwx ajd,f
+a 1,"1,085.15",USD,debit,Cash out,2023-02-17,gf cce gf cx wq,f
+a 1,"1,856.69",USD,debit,Cash out,2023-02-17,bki boq bki cg px,f
+a 1,183.75,USD,debit,Cash out,2023-02-17,cpk cnn cpk ajv m,f
+a 1,"6,819.31",USD,debit,Cash out,2023-02-17,mx pw mx pw bkk,f
+a 1,"1,808.60",USD,debit,Cash out,2023-02-17,cgq cnq cgq bwx bke,f
+a 1,766.71,USD,debit,Cash out,2023-02-17,ang ni ang bie bgx,f
+a 1,"24,509.64",USD,debit,Cash out,2023-02-17,bbs ade bbs buz ach,f
+a 1,"2,507.85",USD,debit,Cash out,2023-02-17,cmq aep cmq ads ta,f
+a 1,"7,178.97",USD,debit,Cash out,2023-02-17,cmh bym cmh bym bc,f
+a 1,"1,210.25",USD,debit,Cash out,2023-02-17,bsw nx cdb bsw bog,f
+a 1,"24,443.56",USD,debit,Cash out,2023-02-17,bxy bsm bxy amx re,f
+a 1,"32,771.38",USD,debit,Cash out,2023-02-17,hx bzn hx btn aok,f
+a 1,416.75,USD,debit,Cash out,2023-02-17,op nx auo op nx iq cqy,f
+a 1,150.03,USD,debit,Cash out,2023-02-17,aua bip aua ur,f
+a 1,900.00,USD,debit,Cash out,2023-02-17,coo adl coo bzo bik,f
+a 1,704.44,USD,debit,Cash out,2023-02-17,od xt od ui lp,f
+a 1,"5,409.88",USD,debit,Cash out,2023-02-17,boc ej boc asm bkm,f
+a 1,"1,706.68",USD,debit,Cash out,2023-02-17,ba buo ba bnh bhh,f
+a 1,"1,838.71",USD,debit,Cash out,2023-02-17,kh cbz kh cbz cfx,f
+a 1,"3,113.20",USD,debit,Cash out,2023-02-17,cqb aal bw cqb cx ayq,f
+a 1,"2,841.29",USD,debit,Cash out,2023-02-17,clq awb clq blu,f
+a 1,"5,958.23",USD,debit,Cash out,2023-02-17,dl cqq aam dl aoy arm,f
+a 1,"1,302.57",USD,debit,Cash out,2023-02-17,ajw aob ajw gs ajn,f
+a 1,754.48,USD,debit,Cash out,2023-02-17,bxx crg bxx apz cbf,f
+a 1,500.10,USD,debit,Cash out,2023-02-17,kj aal kj chm yd,f
+a 1,"4,367.91",USD,debit,Cash out,2023-02-17,bvl cjx bvl cbe cad,f
+a 1,"1,698.16",USD,debit,Cash out,2023-02-17,byq ckn byq aej cmp,f
+a 1,"1,488.63",USD,debit,Cash out,2023-02-17,bng ch bng bjt azp,f
+a 1,"1,995.86",USD,debit,Cash out,2023-02-17,bqp gx bqp bgh cjc,f
+a 1,"1,485.31",USD,debit,Cash out,2023-02-17,wr ckf wr hj aro,f
+a 1,"1,123.40",USD,debit,Cash out,2023-02-17,abg eu abg bny atu,f
+a 1,"116,934.44",USD,credit,Cash in,2023-02-17,awi ael auo clr ih bci,d
+a 1,"3,223.26",USD,debit,Cash out,2023-02-17,id ajz id azs bvy,f
+a 1,"6,316.76",USD,debit,Cash out,2023-02-17,aam jm baa aul aam jm no,f
+a 1,344.82,USD,debit,Cash out,2023-02-17,tk aqf tk adn,f
+a 1,"5,967.22",USD,debit,Cash out,2023-02-17,bzk awm bzk chx bgu,f
+a 1,816.83,USD,debit,Cash out,2023-02-17,dm atn dm bma bdv,f
+a 1,583.32,USD,debit,Cash out,2023-02-17,bzc cjs bzc vr ql,f
+a 1,"8,140.71",USD,debit,Cash out,2023-02-17,ok anm ok bfh,f
+a 1,"5,318.58",USD,debit,Cash out,2023-02-17,tz jq tz bjw bdr,f
+a 1,"1,300.27",USD,debit,Cash out,2023-02-17,va biz va dw ns,f
+a 1,"1,280.26",USD,debit,Cash out,2023-02-17,mw aam jm boo mw aam bwm cjg,f
+a 1,"1,163.90",USD,debit,Cash out,2023-02-17,bkn aov cfc bkn ayd boa,f
+a 1,"2,166.77",USD,debit,Cash out,2023-02-17,caw bur caw cmy cok,f
+a 1,912.05,USD,debit,Cash out,2023-02-17,aam jm baa avi aam jm akh,f
+a 1,"2,487.23",USD,debit,Cash out,2023-02-17,gf bss gf ot baf,f
+a 1,"1,617.07",USD,debit,Cash out,2023-02-17,cny cef cny azh oa,f
+a 1,"1,289.86",USD,debit,Cash out,2023-02-17,alb pj alb bot bwp,f
+a 1,815.17,USD,debit,Cash out,2023-02-17,arc bpl arc ep se,f
+a 1,386.78,USD,debit,Cash out,2023-02-17,bzc aar bzc qn ahw,f
+a 1,369.74,USD,debit,Cash out,2023-02-17,cql car cql qe chf,f
+a 1,"8,994.48",USD,debit,Cash out,2023-02-17,cjj bjv cjj ckm bcu,f
+a 1,"5,020.19",USD,debit,Cash out,2023-02-17,bsz bsf bsz hq si,f
+a 1,"3,365.54",USD,debit,Cash out,2023-02-17,ahp bqw ahp aul aac,f
+a 1,"9,655.22",USD,debit,Cash out,2023-02-17,aeb ey aeb brl vd,f
+a 1,"4,697.66",USD,debit,Cash out,2023-02-17,bze nx cag bze nx adk,f
+a 1,"1,558.33",USD,debit,Cash out,2023-02-17,cns ats cns bjc cci,f
+a 1,"6,925.08",USD,debit,Cash out,2023-02-17,aqt aov aqt aov cfg,f
+a 1,925.19,USD,debit,Cash out,2023-02-17,ais n ais bzf blt,f
+a 1,"2,700.12",USD,debit,Cash out,2023-02-17,aam jm baa cik aam jm cob,f
+a 1,298.84,USD,debit,Cash out,2023-02-17,bgn bfx bgn cgr ix,f
+a 1,"4,600.00",USD,debit,Cash out,2023-02-17,cia xz cia cjd jh,f
+a 1,"173,465.17",USD,credit,Cash in,2023-02-17,buy aq bnw,a
+a 1,229.55,USD,debit,Cash out,2023-02-17,buy aq byb,a
+a 2,"35,604.12",USD,credit,Cash in,2023-02-17,buy aq ckg,a
+a 3,"1,987.76",USD,debit,Cash out,2023-02-17,ban cdc agj aav,d
+a 3,478.65,USD,debit,Cash out,2023-02-17,ban cdc agj qs,d
+a 3,395.18,USD,debit,Cash out,2023-02-17,ban cdc agj akq,d
+a 3,"1,744.46",USD,debit,Cash out,2023-02-17,ban cdc agj bkj,d
+a 3,"2,964.00",USD,credit,Cash in,2023-02-17,ky aqg clr ai bbi,d
+a 3,"1,816.19",USD,debit,Cash out,2023-02-17,ban cdc agj axp,d
+a 3,"2,964.00",USD,credit,Cash in,2023-02-17,ky aqg clr ai ln,d
+a 3,"4,926.91",USD,debit,Cash out,2023-02-17,ban cdc agj bxm,d
+a 3,"107,826.00",USD,credit,Cash in,2023-02-17,coe crp bxp aev bh cbe bao ama crp aki,e
+a 3,"1,111.50",USD,debit,Cash out,2023-02-17,ban cdc agj bat,d
+a 3,"2,593.50",USD,credit,Cash in,2023-02-17,ky aqg clr ai li,d
+a 3,"2,223.00",USD,credit,Cash in,2023-02-17,ky aqg clr ai bkg,d
+a 3,"2,500.88",USD,debit,Cash out,2023-02-17,ban cdc agj cal,d
+a 3,"3,968.80",USD,debit,Cash out,2023-02-17,ban cdc agj kb,d
+a 3,"3,705.00",USD,credit,Cash in,2023-02-17,ky aqg clr ai ayh,d
+a 3,"2,393.26",USD,debit,Cash out,2023-02-17,ban cdc agj asp,d
+a 3,486.60,USD,debit,Cash out,2023-02-17,ban cdc agj bza,d
+a 3,"1,482.00",USD,credit,Cash in,2023-02-17,ky aqg clr ai bag,d
+a 3,718.77,USD,debit,Cash out,2023-02-17,ban cdc agj anz,d
+a 3,259.35,USD,debit,Cash out,2023-02-17,ban cdc agj abb,d
+a 3,"3,705.00",USD,credit,Cash in,2023-02-17,ky aqg clr ai bwj,d
+a 3,600.06,USD,debit,Cash out,2023-02-17,ban cdc agj ali,d
+a 3,"2,112.59",USD,debit,Cash out,2023-02-17,ban cdc agj akt,d
+a 3,232.66,USD,debit,Cash out,2023-02-17,ban cdc agj ayg,d
+a 3,"1,574.63",USD,debit,Cash out,2023-02-17,ban cdc agj ckh,d
+a 3,"3,705.00",USD,credit,Cash in,2023-02-17,ky aqg clr ai hn,d
+a 3,"2,667.60",USD,credit,Cash in,2023-02-17,ky aqg clr ai alz,d
+a 3,"3,705.00",USD,debit,Cash out,2023-02-17,ban cdc agj bsn,d
+a 3,"2,686.87",USD,debit,Cash out,2023-02-17,ban cdc agj arg,d
+a 3,"5,000,000.00",USD,credit,Cash in,2023-02-17,coe crp ahj aev xg adk,e
+a 3,"2,223.00",USD,credit,Cash in,2023-02-17,ky aqg clr ai atj,d
+a 3,741.00,USD,credit,Cash in,2023-02-17,ky aqg clr ai amo,d
+a 3,"2,964.00",USD,debit,Cash out,2023-02-17,ban cdc agj als,d
+a 3,518.70,USD,debit,Cash out,2023-02-17,ban cdc agj bky,d
+a 3,81.91,USD,debit,Cash out,2023-02-17,ban cdc agj bcs,d
+a 3,"2,668.34",USD,debit,Cash out,2023-02-17,ban cdc agj bst,d
+a 3,"3,334.50",USD,debit,Cash out,2023-02-17,ban cdc agj ast,d
+a 3,"76,653.00",USD,credit,Cash in,2023-02-17,coe crp wf aev bh xy ama crp aaz,e
+a 3,"3,491.35",USD,debit,Cash out,2023-02-17,ban cdc agj nv,d
+a 3,"1,111.50",USD,debit,Cash out,2023-02-17,ban cdc agj aya,d
+a 3,"4,055.00",USD,debit,Cash out,2023-02-17,ban cdc agj xn,d
+c 6,"3,824.54",USD,credit,Cash in,2023-02-17,buy aq adw,a
+a 1,"97,779.20",USD,credit,Cash in,2023-02-16,awi ael auo clr bzi bci,d
+a 1,"5,226.06",USD,debit,Cash out,2023-02-16,yg bcc aqr,c
+a 1,"3,725.19",USD,debit,Cash out,2023-02-16,yg kr bte,c
+a 1,"54,515.82",USD,credit,Cash in,2023-02-16,buy aq pt,a
+a 2,"16,878.37",USD,credit,Cash in,2023-02-16,buy aq rv,a
+a 3,"9,856.80",USD,credit,Cash in,2023-02-16,nj cdc ha dd anl,d
+a 3,"3,705.00",USD,credit,Cash in,2023-02-16,ky aqg clr ai ckp,d
+a 3,"2,519.40",USD,credit,Cash in,2023-02-16,ky aqg clr ai dk,d
+a 3,92.47,USD,debit,Cash out,2023-02-16,amb asg cbe cmv dd app,b
+a 3,"4,816.50",USD,credit,Cash in,2023-02-16,ky aqg clr ai aux,d
+a 3,"1,308.72",USD,credit,Cash in,2023-02-16,coe crp bhb aev jz aqj ama crp bou,e
+a 3,"1,852.50",USD,credit,Cash in,2023-02-16,ky aqg clr ai acw,d
+a 3,"1,852.50",USD,credit,Cash in,2023-02-16,ky aqg clr ai aks,d
+a 3,214.00,USD,debit,Cash out,2023-02-16,amb asg aic sv dd q,b
+a 3,"4,446.00",USD,credit,Cash in,2023-02-16,ky aqg clr ai wo,d
+a 3,"3,705.00",USD,credit,Cash in,2023-02-16,ky aqg clr ai bep,d
+a 3,160.62,USD,debit,Cash out,2023-02-16,amb asg bw eh dd cpd,b
+a 3,"1,111.50",USD,credit,Cash in,2023-02-16,ky aqg clr ai zt,d
+a 3,"70,672.11",USD,debit,Cash out,2023-02-16,bqh ay agw,c
+a 3,"1,482.00",USD,credit,Cash in,2023-02-16,ky aqg clr ai ccm,d
+a 3,"2,593.50",USD,credit,Cash in,2023-02-16,ky aqg clr ai cbb,d
+a 3,"2,964.00",USD,credit,Cash in,2023-02-16,ky aqg clr ai oz,d
+c 6,138.40,USD,credit,Cash in,2023-02-16,buy aq du,a
+c 6,291.83,USD,credit,Cash in,2023-02-15,cbl hp bul bmr,a
+a 1,106.50,USD,debit,Cash out,2023-02-15,amb asg ip bjg ccr bwa,b
+a 1,95.00,USD,debit,Cash out,2023-02-15,amb asg bie bze ccr btp,b
+a 1,"53,465.89",USD,credit,Cash in,2023-02-15,cbl hp bul adg,a
+a 1,290.00,USD,debit,Cash out,2023-02-15,amb asg bie bze ccr pk,b
+a 1,95.00,USD,debit,Cash out,2023-02-15,amb asg bwx bqe ccr cqm,b
+a 1,7.05,USD,debit,Cash out,2023-02-15,amb asg ub do ccr cov,b
+a 1,"95,458.28",USD,credit,Cash in,2023-02-15,awi ael auo clr dd bci,d
+a 1,75.00,USD,debit,Cash out,2023-02-15,amb asg bie bze ccr vb,b
+a 1,85.00,USD,debit,Cash out,2023-02-15,amb asg ub do ccr aon,b
+a 1,58.30,USD,debit,Cash out,2023-02-15,amb asg bie bze ccr acv,b
+a 1,190.00,USD,debit,Cash out,2023-02-15,amb asg gh cgg ccr bhq,b
+a 1,100.00,USD,debit,Cash out,2023-02-15,amb asg bie afk ccr aay,b
+a 1,100.00,USD,debit,Cash out,2023-02-15,amb asg bie afk ccr aqp,b
+a 1,9.24,USD,debit,Cash out,2023-02-15,amb asg ip coy ccr aoo,b
+a 1,285.53,USD,debit,Cash out,2023-02-15,amb asg cbe aye ccr aou,b
+a 1,62.10,USD,debit,Cash out,2023-02-15,amb asg ub dp ccr cbg,b
+a 1,75.00,USD,debit,Cash out,2023-02-15,amb asg bie bze ccr uw,b
+a 1,20.00,USD,debit,Cash out,2023-02-15,amb asg bie afk ccr ll,b
+a 1,75.00,USD,debit,Cash out,2023-02-15,amb asg gh cgg ccr abd,b
+a 1,40.00,USD,debit,Cash out,2023-02-15,amb asg bie bze ccr bup,b
+a 1,75.00,USD,debit,Cash out,2023-02-15,amb asg bie bze ccr coq,b
+a 1,48.50,USD,debit,Cash out,2023-02-15,amb asg bie afk ccr bys,b
+a 1,50.00,USD,debit,Cash out,2023-02-15,amb asg bie bze ccr kq,b
+a 1,337.90,USD,debit,Cash out,2023-02-15,amb asg ub dp ccr aek,b
+a 1,9.00,USD,debit,Cash out,2023-02-15,amb asg ip coy ccr nw,b
+a 1,157.79,USD,debit,Cash out,2023-02-15,amb asg ub dp ccr avo,b
+a 1,50.00,USD,debit,Cash out,2023-02-15,amb asg cma ano ccr cch,b
+a 1,63.32,USD,debit,Cash out,2023-02-15,amb asg gh bbt ccr cor,b
+a 1,"97,207.29",USD,credit,Cash in,2023-02-15,buy aq cpp,a
+a 2,"16,314.33",USD,credit,Cash in,2023-02-15,buy aq rp,a
+a 2,"5,886.21",USD,credit,Cash in,2023-02-15,cbl hp bul fa,a
+a 3,"2,000.70",USD,credit,Cash in,2023-02-15,ky aqg clr ai lz,d
+a 3,"4,075.50",USD,credit,Cash in,2023-02-15,ky aqg clr ai cke,d
+a 3,"1,659.84",USD,credit,Cash in,2023-02-15,ky aqg clr ai qa,d
+a 3,"1,296.75",USD,credit,Cash in,2023-02-15,ky aqg clr ai pa,d
+a 3,"3,890.25",USD,credit,Cash in,2023-02-15,ky aqg clr ai gt,d
+a 3,"3,705.00",USD,credit,Cash in,2023-02-15,ky aqg clr ai bhv,d
+a 3,"4,334.85",USD,credit,Cash in,2023-02-15,ky aqg clr ai axj,d
+a 3,"2,593.50",USD,credit,Cash in,2023-02-15,ky aqg clr ai ckz,d
+a 3,741.00,USD,credit,Cash in,2023-02-15,ky aqg clr ai aet,d
+a 3,"3,334.50",USD,credit,Cash in,2023-02-15,ky aqg clr ai aur,d
+a 3,"2,223.00",USD,credit,Cash in,2023-02-15,ky aqg clr ai tx,d
+a 3,"3,464.17",USD,credit,Cash in,2023-02-15,ky aqg clr ai ym,d
+a 3,"10,488.30",USD,credit,Cash in,2023-02-15,nj cdc ha ccr asf,d
+a 3,"2,956.59",USD,credit,Cash in,2023-02-15,ky aqg clr ai cet,d
+a 3,"2,160.01",USD,credit,Cash in,2023-02-15,ky aqg clr ai bdd,d
+a 3,"16,146.00",USD,debit,Cash out,2023-02-15,coe crp bif aqa zl cfv afw ama crp hz,e
+a 3,"2,519.40",USD,credit,Cash in,2023-02-15,ky aqg clr ai bpr,d
+a 3,"4,446.00",USD,credit,Cash in,2023-02-15,ky aqg clr ai bpi,d
+a 3,"7,039.50",USD,credit,Cash in,2023-02-15,ky aqg clr ai coc,d
+c 6,"2,081.59",USD,credit,Cash in,2023-02-15,buy aq fr,a
+a 1,"123,968.71",USD,credit,Cash in,2023-02-14,buy aq cbp,a
+a 1,99.89,USD,credit,Cash in,2023-02-14,buy aq axa,a
+a 1,11.24,USD,debit,Cash out,2023-02-14,amb asg gh byl aig jk,b
+a 1,11.24,USD,debit,Cash out,2023-02-14,amb asg gh byl aig awk,b
+a 1,70.00,USD,debit,Cash out,2023-02-14,amb asg cma bxt aig bnq,b
+a 1,125.00,USD,debit,Cash out,2023-02-14,amb asg avh btk aig byj,b
+a 1,17.74,USD,debit,Cash out,2023-02-14,amb asg gh byl aig bvd,b
+a 1,32.49,USD,debit,Cash out,2023-02-14,amb asg gh byl aig mp,b
+a 1,8.00,USD,debit,Cash out,2023-02-14,amb asg gh byl aig aaf,b
+a 1,10.25,USD,debit,Cash out,2023-02-14,amb asg gh byl aig amf,b
+a 1,9.74,USD,debit,Cash out,2023-02-14,amb asg gh byl aig vl,b
+a 1,15.00,USD,debit,Cash out,2023-02-14,amb asg gh byl aig afp,b
+a 1,8.75,USD,debit,Cash out,2023-02-14,amb asg gh byl aig ry,b
+a 1,120.00,USD,debit,Cash out,2023-02-14,amb asg avh btk aig cex,b
+a 1,148.03,USD,debit,Cash out,2023-02-14,amb asg ip aiw ccr cdi,b
+a 1,"1,689.13",USD,debit,Cash out,2023-02-14,bjx as,c
+a 1,32.49,USD,debit,Cash out,2023-02-14,amb asg gh byl aig ces,b
+a 1,20.74,USD,debit,Cash out,2023-02-14,amb asg gh byl aig eq,b
+a 1,8.00,USD,debit,Cash out,2023-02-14,amb asg gh byl aig sw,b
+a 1,6.00,USD,debit,Cash out,2023-02-14,amb asg gh anm aig oi,b
+a 1,"70,116.48",USD,debit,Cash out,2023-02-14,yg kr ceh,c
+a 1,84.00,USD,debit,Cash out,2023-02-14,amb asg ip bbu ccr tt,b
+a 1,"131,307.83",USD,credit,Cash in,2023-02-14,awi ael auo clr ccr bci,d
+a 1,17.74,USD,debit,Cash out,2023-02-14,amb asg gh byl aig zo,b
+a 1,52.35,USD,debit,Cash out,2023-02-14,amb asg ub dp aig p,b
+a 1,65.99,USD,debit,Cash out,2023-02-14,amb asg gh byl aig alg,b
+a 1,280.00,USD,debit,Cash out,2023-02-14,amb asg cbe bkc aig avu,b
+a 1,8.00,USD,debit,Cash out,2023-02-14,amb asg gh byl aig ans,b
+a 1,14.49,USD,debit,Cash out,2023-02-14,amb asg gh byl aig ary,b
+a 1,156.81,USD,debit,Cash out,2023-02-14,amb asg bw cbs aig aqo,b
+a 1,4.00,USD,debit,Cash out,2023-02-14,amb asg bw cbs aig bvo,b
+a 1,31.00,USD,debit,Cash out,2023-02-14,amb asg gh byl aig bxe,b
+a 1,7.74,USD,debit,Cash out,2023-02-14,amb asg gh byl aig ka,b
+a 1,159.82,USD,debit,Cash out,2023-02-14,amb asg ip aiw ccr yw,b
+a 1,"150,315.54",USD,debit,Cash out,2023-02-14,yg bcc bhz,c
+a 2,"27,748.70",USD,credit,Cash in,2023-02-14,buy aq r,a
+a 3,"5,434.51",USD,debit,Cash out,2023-02-14,ban cdc agj axp,d
+a 3,"3,705.00",USD,debit,Cash out,2023-02-14,ban cdc agj bsn,d
+a 3,405.50,USD,debit,Cash out,2023-02-14,ban cdc agj bky,d
+a 3,16.00,USD,debit,Cash out,2023-02-14,amb asg cma ra aig avq,b
+a 3,"288,889.35",USD,debit,Cash out,2023-02-14,yg kr cbn,c
+a 3,25.23,USD,debit,Cash out,2023-02-14,amb asg cbe agn aig aqw,b
+a 3,"1,000.35",USD,credit,Cash in,2023-02-14,ky aqg clr ai zx,d
+a 3,"2,964.00",USD,credit,Cash in,2023-02-14,ky aqg clr ai rn,d
+a 3,44.35,USD,debit,Cash out,2023-02-14,amb asg bma bti ccr age,b
+a 3,"4,223.70",USD,debit,Cash out,2023-02-14,ban cdc agj akt,d
+a 3,876.39,USD,debit,Cash out,2023-02-14,yg ate bna,c
+a 3,300.16,USD,debit,Cash out,2023-02-14,amb asg cma ake ccr cen,b
+a 3,"555,433.35",USD,debit,Cash out,2023-02-14,yg bcc bzm,c
+a 3,274.56,USD,debit,Cash out,2023-02-14,amb asg gh chr aig bbj,b
+a 3,"2,964.00",USD,debit,Cash out,2023-02-14,ban cdc agj bxm,d
+a 3,291.41,USD,debit,Cash out,2023-02-14,amb asg afw bmq aig agx,b
+a 3,27.62,USD,debit,Cash out,2023-02-14,amb asg ati iy ccr bqj,b
+a 3,"1,333.80",USD,credit,Cash in,2023-02-14,ky aqg clr ai tu,d
+a 3,569.32,USD,debit,Cash out,2023-02-14,ban cdc agj bat,d
+a 3,"1,333.80",USD,credit,Cash in,2023-02-14,ky aqg clr ai blv,d
+a 3,85.36,USD,debit,Cash out,2023-02-14,amb asg bw eh aig wv,b
+a 3,"1,816.19",USD,debit,Cash out,2023-02-14,ban cdc agj aav,d
+a 3,"3,668.69",USD,debit,Cash out,2023-02-14,ban cdc agj aya,d
+a 3,75.03,USD,debit,Cash out,2023-02-14,ban cdc agj bza,d
+a 3,169.25,USD,debit,Cash out,2023-02-14,amb asg cma avn aig bua,b
+a 3,348.73,USD,debit,Cash out,2023-02-14,ban cdc agj anz,d
+a 3,"1,463.47",USD,credit,Cash in,2023-02-14,ky aqg clr ai abe,d
+a 3,"358,170.28",USD,debit,Cash out,2023-02-14,yg bcc bdy,c
+a 3,"2,379.35",USD,credit,Cash in,2023-02-14,ky aqg clr ai gy,d
+a 3,"3,870.34",USD,credit,Cash in,2023-02-14,ky aqg clr ai bzd,d
+a 3,"3,864.83",USD,debit,Cash out,2023-02-14,ban cdc agj arg,d
+a 3,115.00,USD,debit,Cash out,2023-02-14,amb asg cbe agn aig bhs,b
+a 3,"140,495.04",USD,debit,Cash out,2023-02-14,yg kr blj,c
+a 3,"1,711.71",USD,debit,Cash out,2023-02-14,ban cdc agj bmn,d
+a 3,"11,115.00",USD,credit,Cash in,2023-02-14,ky aqg clr ai cmm,d
+a 3,"1,167.07",USD,debit,Cash out,2023-02-14,ban cdc agj als,d
+a 3,303.21,USD,credit,Cash in,2023-02-14,nj cdc ha aig mt,d
+a 3,"1,723.57",USD,debit,Cash out,2023-02-14,ban cdc agj bst,d
+a 3,"1,675.40",USD,debit,Cash out,2023-02-14,ban cdc agj asp,d
+a 3,497.21,USD,debit,Cash out,2023-02-14,ban cdc agj bdf,d
+a 3,741.00,USD,debit,Cash out,2023-02-14,ban cdc agj cal,d
+a 3,16.00,USD,debit,Cash out,2023-02-14,amb asg cma avn aig bkx,b
+a 3,"2,046.64",USD,credit,Cash in,2023-02-14,ky aqg clr ai acx,d
+a 3,"1,852.50",USD,credit,Cash in,2023-02-14,ky aqg clr ai bjr,d
+a 3,"1,111.50",USD,debit,Cash out,2023-02-14,ban cdc agj ts,d
+a 3,889.20,USD,debit,Cash out,2023-02-14,ban cdc agj bkj,d
+c 6,"3,925.90",USD,credit,Cash in,2023-02-14,buy aq ajm,a
+c 6,"6,537.46",USD,credit,Cash in,2023-02-13,buy aq byh,a
+a 1,"68,011.45",USD,credit,Cash in,2023-02-13,buy aq jr,a
+a 1,157.47,USD,credit,Cash in,2023-02-13,buy aq cbc,a
+a 1,55.00,USD,debit,Cash out,2023-02-13,amb asg adq ays ajp aij,b
+a 1,5.00,USD,debit,Cash out,2023-02-13,amb asg adq ays ajp cdo,b
+a 1,107.13,USD,debit,Cash out,2023-02-13,amb asg adq ays ajp aqm,b
+a 1,125.00,USD,debit,Cash out,2023-02-13,amb asg bie afk ajp bei,b
+a 1,667.35,USD,debit,Cash out,2023-02-13,ajh ajq,e
+a 1,17.04,USD,debit,Cash out,2023-02-13,amb asg ip wu ajp rs,b
+a 1,255.00,USD,debit,Cash out,2023-02-13,amb asg adq ays ajp cas,b
+a 1,107.13,USD,debit,Cash out,2023-02-13,amb asg adq ays ajp are,b
+a 1,53.89,USD,debit,Cash out,2023-02-13,amb asg adq ays ajp wy,b
+a 1,222.00,USD,debit,Cash out,2023-02-13,amb asg ub dp ajp azk,b
+a 1,47.66,USD,debit,Cash out,2023-02-13,amb asg bie afk ajp bab,b
+a 1,"1,797.50",USD,debit,Cash out,2023-02-13,bjx as,c
+a 1,178.90,USD,debit,Cash out,2023-02-13,amb asg ub dp ajp bnv,b
+a 1,158.98,USD,debit,Cash out,2023-02-13,amb asg ub dp ajp aec,b
+a 1,100.00,USD,debit,Cash out,2023-02-13,amb asg bie afk ajp ms,b
+a 1,60.00,USD,debit,Cash out,2023-02-13,amb asg ub dp ajp bem,b
+a 1,174.78,USD,debit,Cash out,2023-02-13,amb asg ub dp ajp bnx,b
+a 1,9.95,USD,debit,Cash out,2023-02-13,amb asg cbe cw ajp bgl,b
+a 1,277.90,USD,debit,Cash out,2023-02-13,amb asg ub dp ajp btb,b
+a 1,14.25,USD,debit,Cash out,2023-02-13,amb asg gh anm ajp zb,b
+a 1,477.40,USD,debit,Cash out,2023-02-13,amb asg gh bbt ajp bja,b
+a 1,"2,333.33",USD,debit,Cash out,2023-02-13,cip cht bah ij cdw,f
+a 1,17.25,USD,debit,Cash out,2023-02-13,amb asg gh anm ajp atx,b
+a 1,"110,716.43",USD,credit,Cash in,2023-02-13,awi ael auo clr aig bci,d
+a 1,987.18,USD,debit,Cash out,2023-02-13,cip cht aup aix aig ccx,c
+a 1,100.00,USD,debit,Cash out,2023-02-13,amb asg ip coy ajp iw,b
+a 2,"17,636.37",USD,credit,Cash in,2023-02-13,buy aq bof,a
+a 7,410.03,USD,debit,Cash out,2023-02-13,ajh ajq,e
+a 3,"3,334.50",USD,debit,Cash out,2023-02-13,ban cdc agj bky,d
+a 3,"1,987.76",USD,debit,Cash out,2023-02-13,ban cdc agj arg,d
+a 3,"2,964.00",USD,credit,Cash in,2023-02-13,ky aqg clr ai bct,d
+a 3,"5,557.50",USD,credit,Cash in,2023-02-13,ky aqg clr ai bak,d
+a 3,"3,116.65",USD,credit,Cash in,2023-02-13,ky aqg clr ai brf,d
+a 3,"3,887.99",USD,credit,Cash in,2023-02-13,nj cdc ha ajp cqh,d
+a 3,838.07,USD,debit,Cash out,2023-02-13,ban cdc agj als,d
+a 3,695.84,USD,debit,Cash out,2023-02-13,ban cdc agj asp,d
+a 3,"4,334.85",USD,credit,Cash in,2023-02-13,ky aqg clr ai av,d
+a 3,103.15,USD,debit,Cash out,2023-02-13,amb asg gh ju ajp anj,b
+a 3,"2,223.00",USD,debit,Cash out,2023-02-13,ban cdc agj bsn,d
+a 3,"1,667.25",USD,debit,Cash out,2023-02-13,ban cdc agj aya,d
+a 3,716.22,USD,debit,Cash out,2023-02-13,ajh ajq,e
+a 3,"3,527.04",USD,debit,Cash out,2023-02-13,ban cdc agj ayg,d
+a 3,300.65,USD,debit,Cash out,2023-02-13,amb asg adk iv ajp chz,b
+a 3,"2,964.00",USD,credit,Cash in,2023-02-13,ky aqg clr ai avc,d
+a 3,120.00,USD,debit,Cash out,2023-02-13,amb asg gh chp ajp aps,b
+a 3,"1,482.00",USD,credit,Cash in,2023-02-13,ky aqg clr ai bca,d
+a 3,583.92,USD,debit,Cash out,2023-02-13,ban cdc agj bmn,d
+a 3,"2,964.00",USD,credit,Cash in,2023-02-13,ky aqg clr ai ag,d
+a 3,802.89,USD,debit,Cash out,2023-02-13,ban cdc agj cal,d
+a 3,"1,444.95",USD,debit,Cash out,2023-02-13,ban cdc agj bdf,d
+a 3,25.92,USD,debit,Cash out,2023-02-13,amb asg cma ake ajp cz,b
+a 3,55.58,USD,debit,Cash out,2023-02-13,amb asg gh chr ajp oc,b
+a 3,"1,556.10",USD,credit,Cash in,2023-02-13,ky aqg clr ai vt,d
+a 3,"2,223.00",USD,debit,Cash out,2023-02-13,ban cdc agj bkj,d
+a 3,563.23,USD,debit,Cash out,2023-02-13,amb asg bw eh ajp bvi,b
+a 3,603.14,USD,debit,Cash out,2023-02-13,amb asg hq abk ajp aen,b
+a 3,"1,284.15",USD,debit,Cash out,2023-02-13,ban cdc agj bza,d
+a 3,"2,519.40",USD,debit,Cash out,2023-02-13,ban cdc agj bat,d
+a 3,5.73,USD,debit,Cash out,2023-02-13,bhf yl ci adk bhf yl rg,c
+a 3,"2,111.85",USD,debit,Cash out,2023-02-13,ban cdc agj axp,d
+a 3,624.82,USD,debit,Cash out,2023-02-13,amb asg ip aew ajp bta,b
+a 3,"2,557.19",USD,debit,Cash out,2023-02-13,ban cdc agj bxm,d
+a 3,"3,668.69",USD,debit,Cash out,2023-02-13,ban cdc agj ali,d
+a 3,"4,446.00",USD,credit,Cash in,2023-02-13,ky aqg clr ai alm,d
+a 3,"2,964.00",USD,debit,Cash out,2023-02-13,ban cdc agj qs,d
+c 6,376.52,USD,credit,Cash in,2023-02-10,buy aq bcj,a
+a 1,"70,532.90",USD,credit,Cash in,2023-02-10,buy aq nl,a
+a 1,150.00,USD,debit,Cash out,2023-02-10,amb asg cma ayv axf agk,b
+a 1,30.00,USD,debit,Cash out,2023-02-10,amb asg ati aqs axf pg,b
+a 1,150.00,USD,debit,Cash out,2023-02-10,amb asg cbe bkc axf chn,b
+a 1,"1,950.00",USD,credit,Cash in,2023-02-10,coe crp cph aev bwb ceg bps ama crp cac,e
+a 1,32.00,USD,debit,Cash out,2023-02-10,yg cmd axf hd,c
+a 1,495.00,USD,debit,Cash out,2023-02-10,amb asg bwx bbz axf bwo,b
+a 1,31.00,USD,debit,Cash out,2023-02-10,amb asg gh anm axf bro,b
+a 1,"93,533.00",USD,credit,Cash in,2023-02-10,awi ael auo clr ajp bci,d
+a 1,170.69,USD,debit,Cash out,2023-02-10,amb asg bw ej axf bvc,b
+a 1,30.00,USD,debit,Cash out,2023-02-10,amb asg ati aqs axf ckq,b
+a 1,2.70,USD,debit,Cash out,2023-02-10,amb asg cbe cw axf bcq,b
+a 2,"12,805.58",USD,credit,Cash in,2023-02-10,buy aq cir,a
+a 3,"2,223.00",USD,credit,Cash in,2023-02-10,ky aqg clr ai bcn,d
+a 3,"5,557.50",USD,credit,Cash in,2023-02-10,ky aqg clr ai avg,d
+a 3,"2,964.00",USD,credit,Cash in,2023-02-10,ky aqg clr ai cm,d
+a 3,"2,667.60",USD,credit,Cash in,2023-02-10,ky aqg clr ai jf,d
+a 3,"1,704.30",USD,credit,Cash in,2023-02-10,ky aqg clr ai bub,d
+a 3,"2,223.00",USD,credit,Cash in,2023-02-10,ky aqg clr ai brg,d
+a 3,"2,964.00",USD,credit,Cash in,2023-02-10,ky aqg clr ai bcw,d
+a 3,17.24,USD,debit,Cash out,2023-02-10,amb asg gh ju axf blq,b
+a 3,705.38,USD,credit,Cash in,2023-02-10,nj cdc ha axf db,d
+c 6,913.63,USD,credit,Cash in,2023-02-09,buy aq yx,a
+a 1,"73,122.45",USD,credit,Cash in,2023-02-09,buy aq bnb,a
+a 1,477.30,USD,credit,Cash in,2023-02-09,buy aq ava,a
+a 1,127.85,USD,debit,Cash out,2023-02-09,amb asg bw cdk auv cbq,b
+a 1,750.15,USD,debit,Cash out,2023-02-09,bhr bni bhr rx if,f
+a 1,"2,890.79",USD,debit,Cash out,2023-02-09,bkc xd ack bkc xd rw,f
+a 1,162.25,USD,debit,Cash out,2023-02-09,amb asg ip coy auv cdy,b
+a 1,100.00,USD,debit,Cash out,2023-02-09,amb asg bma tg auv tl,b
+a 1,255.00,USD,debit,Cash out,2023-02-09,amb asg bma tg auv ckc,b
+a 1,601.75,USD,debit,Cash out,2023-02-09,amb asg bw cdk auv nb,b
+a 1,17.24,USD,debit,Cash out,2023-02-09,amb asg ip wu auv auu,b
+a 1,13.65,USD,debit,Cash out,2023-02-09,amb asg gh byl auv cft,b
+a 1,102.80,USD,debit,Cash out,2023-02-09,amb asg bw cdk auv cmg,b
+a 1,35.95,USD,debit,Cash out,2023-02-09,amb asg bw cdk auv akb,b
+a 1,"100,015.66",USD,credit,Cash in,2023-02-09,awi ael auo clr axf bci,d
+a 1,87.35,USD,debit,Cash out,2023-02-09,amb asg bw cdk auv bcr,b
+a 1,"1,908.27",USD,debit,Cash out,2023-02-09,bhr bni bhr rx bui,f
+a 1,45.95,USD,debit,Cash out,2023-02-09,amb asg bw cdk auv aba,b
+a 1,35.75,USD,debit,Cash out,2023-02-09,amb asg bw cdk auv chi,b
+a 1,"93,364.25",USD,credit,Cash in,2023-02-09,awi ael auo clr axf bci,d
+a 1,49.20,USD,debit,Cash out,2023-02-09,amb asg bma tg auv cam,b
+a 1,105.00,USD,debit,Cash out,2023-02-09,amb asg bma tg auv cks,b
+a 1,86.95,USD,debit,Cash out,2023-02-09,amb asg bw cdk auv arp,b
+a 1,215.15,USD,debit,Cash out,2023-02-09,amb asg bw cdk auv bio,b
+a 1,"3,231.39",USD,debit,Cash out,2023-02-09,bjx as,c
+a 1,50.00,USD,debit,Cash out,2023-02-09,amb asg avh btk auv atm,b
+a 1,591.75,USD,debit,Cash out,2023-02-09,amb asg bw cdk auv bse,b
+a 1,114.35,USD,debit,Cash out,2023-02-09,amb asg bw cdk auv rz,b
+a 1,188.35,USD,debit,Cash out,2023-02-09,amb asg bw cdk auv apb,b
+a 1,100.00,USD,debit,Cash out,2023-02-09,amb asg bma tg auv akr,b
+a 1,36.70,USD,debit,Cash out,2023-02-09,amb asg bw cdk auv da,b
+a 1,161.75,USD,debit,Cash out,2023-02-09,amb asg ip coy auv bpv,b
+a 1,255.00,USD,debit,Cash out,2023-02-09,amb asg bma tg auv bic,b
+a 1,72.07,USD,debit,Cash out,2023-02-09,amb asg ip wu auv apx,b
+a 1,46.70,USD,debit,Cash out,2023-02-09,amb asg bw cdk auv cep,b
+a 1,667.80,USD,debit,Cash out,2023-02-09,bkc xd ack bkc xd alq,f
+a 1,100.00,USD,debit,Cash out,2023-02-09,amb asg bma tg auv by,b
+a 1,68.40,USD,debit,Cash out,2023-02-09,amb asg afw bnj auv awe,b
+a 1,125.00,USD,debit,Cash out,2023-02-09,amb asg cma ayv auv aan,b
+a 1,100.00,USD,debit,Cash out,2023-02-09,amb asg bma tg auv sb,b
+a 1,215.15,USD,debit,Cash out,2023-02-09,amb asg bw cdk auv cqt,b
+a 2,"15,633.60",USD,credit,Cash in,2023-02-09,buy aq bcz,a
+a 3,50.00,USD,debit,Cash out,2023-02-09,amb asg cma buj auv coz,b
+a 3,"2,223.00",USD,credit,Cash in,2023-02-09,ky aqg clr ai bhn,d
+a 3,"2,964.00",USD,credit,Cash in,2023-02-09,ky aqg clr ai aed,d
+a 3,"2,964.00",USD,credit,Cash in,2023-02-09,ky aqg clr ai blb,d
+a 3,"3,705.00",USD,credit,Cash in,2023-02-09,ky aqg clr ai bpm,d
+a 3,"1,852.50",USD,credit,Cash in,2023-02-09,ky aqg clr ai byt,d
+a 3,"2,223.00",USD,credit,Cash in,2023-02-09,ky aqg clr ai afy,d
+a 3,"4,780.19",USD,credit,Cash in,2023-02-09,ky aqg clr ai ceb,d
+a 3,"1,111.50",USD,credit,Cash in,2023-02-09,ky aqg clr ai qk,d
+a 3,"1,852.50",USD,credit,Cash in,2023-02-09,ky aqg clr ai akl,d
+a 3,"1,482.00",USD,credit,Cash in,2023-02-09,ky aqg clr ai adb,d
+c 6,481.63,USD,credit,Cash in,2023-02-08,buy aq tj,a
+a 1,44.64,USD,credit,Cash in,2023-02-08,buy aq uv,a
+a 1,"163,367.88",USD,credit,Cash in,2023-02-08,buy aq agl,a
+a 1,174.78,USD,debit,Cash out,2023-02-08,amb asg ub dp byr ajt,b
+a 1,"3,600.00",USD,debit,Cash out,2023-02-08,coe crp biq aqa kn anc ama crp bwr,e
+a 1,350.00,USD,debit,Cash out,2023-02-08,amb asg ub dp byr ue,b
+a 1,"5,836.91",USD,debit,Cash out,2023-02-08,bjx as,c
+a 1,"4,300.73",USD,debit,Cash out,2023-02-08,tz jq tz bjw avj,f
+a 1,"1,796.53",USD,debit,Cash out,2023-02-08,tz jq tz bjw ako,f
+a 1,647.43,USD,debit,Cash out,2023-02-08,bjx as,c
+a 1,"2,000.00",USD,debit,Cash out,2023-02-08,coe crp bfb aqa kv biu ama crp ux,e
+a 1,85.00,USD,debit,Cash out,2023-02-08,amb asg bwx bqe byr bl,b
+a 2,"18,794.37",USD,credit,Cash in,2023-02-08,buy aq cko,a
+a 3,100.00,USD,debit,Cash out,2023-02-08,amb asg gh chp byr avf,b
+a 3,"6,224.40",USD,credit,Cash in,2023-02-08,ky aqg clr ai ckb,d
+a 3,"1,482.00",USD,credit,Cash in,2023-02-08,ky aqg clr ai bpj,d
+a 3,"1,111.50",USD,debit,Cash out,2023-02-08,ban cdc agj axp,d
+a 3,"3,649.50",USD,debit,Cash out,2023-02-08,ban cdc agj arg,d
+a 3,"2,223.00",USD,debit,Cash out,2023-02-08,ban cdc agj aav,d
+a 3,"2,557.19",USD,debit,Cash out,2023-02-08,ban cdc agj akt,d
+a 3,811.00,USD,debit,Cash out,2023-02-08,ban cdc agj kb,d
+a 3,"6,192.54",USD,credit,Cash in,2023-02-08,ky aqg clr ai ayr,d
+a 3,"1,800.63",USD,credit,Cash in,2023-02-08,ky aqg clr ai axg,d
+a 3,"1,482.00",USD,credit,Cash in,2023-02-08,ky aqg clr ai yu,d
+a 3,567.70,USD,debit,Cash out,2023-02-08,ban cdc agj bsn,d
+a 3,"3,427.87",USD,debit,Cash out,2023-02-08,ban cdc agj ali,d
+a 3,"335,641.49",USD,debit,Cash out,2023-02-08,coe crp ckd aqa blo bly,e
+a 3,"2,668.34",USD,debit,Cash out,2023-02-08,ban cdc agj ckh,d
+a 3,"2,223.00",USD,debit,Cash out,2023-02-08,ban cdc agj bcs,d
+a 3,"1,987.76",USD,debit,Cash out,2023-02-08,ban cdc agj aya,d
+a 3,"2,735.03",USD,debit,Cash out,2023-02-08,ban cdc agj bkj,d
+a 3,"1,419.25",USD,debit,Cash out,2023-02-08,ban cdc agj bdf,d
+a 3,"3,070.70",USD,credit,Cash in,2023-02-08,ky aqg clr ai ce,d
+a 3,"1,900.66",USD,debit,Cash out,2023-02-08,ban cdc agj qs,d
+a 3,"1,482.00",USD,credit,Cash in,2023-02-08,ky aqg clr ai cmr,d
+a 3,18.37,USD,debit,Cash out,2023-02-08,amb asg ati gz byr bar,b
+a 3,"1,852.50",USD,debit,Cash out,2023-02-08,ban cdc agj anz,d
+a 3,"1,018.13",USD,debit,Cash out,2023-02-08,ban cdc agj abb,d
+a 3,"6,610.46",USD,debit,Cash out,2023-02-08,ban cdc agj cal,d
+a 3,340.62,USD,debit,Cash out,2023-02-08,ban cdc agj bmn,d
+a 3,"1,482.00",USD,debit,Cash out,2023-02-08,ban cdc agj bza,d
+a 3,741.00,USD,debit,Cash out,2023-02-08,ban cdc agj bxm,d
+a 3,"2,223.00",USD,debit,Cash out,2023-02-08,ban cdc agj ts,d
+a 3,"3,283.74",USD,debit,Cash out,2023-02-08,ban cdc agj ayg,d
+a 3,"1,362.14",USD,debit,Cash out,2023-02-08,ban cdc agj ast,d
+a 3,"2,149.96",USD,debit,Cash out,2023-02-08,ban cdc agj als,d
+a 3,"1,333.80",USD,debit,Cash out,2023-02-08,ban cdc agj bky,d
+a 3,"1,963.28",USD,debit,Cash out,2023-02-08,ban cdc agj akq,d
+a 3,"1,816.19",USD,debit,Cash out,2023-02-08,ban cdc agj bat,d
+a 3,"1,075.19",USD,debit,Cash out,2023-02-08,ban cdc agj xn,d
+a 3,"2,500.87",USD,debit,Cash out,2023-02-08,ban cdc agj asp,d
+a 3,"1,111.50",USD,credit,Cash in,2023-02-08,ky aqg clr ai ug,d
+a 3,"2,593.50",USD,credit,Cash in,2023-02-08,ky aqg clr ai kc,d
+a 3,"1,135.40",USD,debit,Cash out,2023-02-08,ban cdc agj bst,d
+c 6,"8,524.40",USD,credit,Cash in,2023-02-07,buy aq bmv,a
+c 6,87.89,USD,credit,Cash in,2023-02-07,cbl hp bul bmr,a
+a 1,"99,163.64",USD,credit,Cash in,2023-02-07,buy aq th,a
+a 1,243.88,USD,credit,Cash in,2023-02-07,buy aq bdz,a
+a 1,409.26,USD,debit,Cash out,2023-02-07,amb asg bie bfn awz oo,b
+a 1,239.73,USD,debit,Cash out,2023-02-07,amb asg ub dp awz coj,b
+a 1,60.00,USD,debit,Cash out,2023-02-07,amb asg bw cow awz bjj,b
+a 1,97.63,USD,debit,Cash out,2023-02-07,amb asg gh ajb awz aub,b
+a 1,85.00,USD,debit,Cash out,2023-02-07,amb asg bwx bqe awz cla,b
+a 1,250.00,USD,debit,Cash out,2023-02-07,amb asg ub dp awz bvj,b
+a 1,18.59,USD,debit,Cash out,2023-02-07,amb asg gh bbt awz adv,b
+a 1,14.40,USD,debit,Cash out,2023-02-07,amb asg bw cbs awz aaa,b
+a 1,10.00,USD,debit,Cash out,2023-02-07,amb asg cma aep awz aqb,b
+a 1,20.83,USD,debit,Cash out,2023-02-07,amb asg ub dp awz lx,b
+a 1,14.40,USD,debit,Cash out,2023-02-07,amb asg bw cbs awz abw,b
+a 1,265.29,USD,debit,Cash out,2023-02-07,amb asg ub eo awz blw,b
+a 1,20.00,USD,debit,Cash out,2023-02-07,amb asg gh anm awz big,b
+a 1,375.00,USD,debit,Cash out,2023-02-07,amb asg gh ahs awz bdi,b
+a 1,100.00,USD,debit,Cash out,2023-02-07,amb asg ub do awz bzl,b
+a 1,12.75,USD,debit,Cash out,2023-02-07,amb asg gh anm awz jg,b
+a 1,"46,719.36",USD,credit,Cash in,2023-02-07,cbl hp bul adg,a
+a 1,703.14,USD,debit,Cash out,2023-02-07,ayo cfp bzf ayo alj yb,f
+a 1,122.38,USD,debit,Cash out,2023-02-07,amb asg ub dp awz vg,b
+a 1,2.46,USD,debit,Cash out,2023-02-07,amb asg cbe cw awz aeh,b
+a 1,159.73,USD,debit,Cash out,2023-02-07,amb asg bw ej awz bhp,b
+a 1,"143,074.93",USD,credit,Cash in,2023-02-07,awi ael auo clr byr bci,d
+a 1,72.00,USD,debit,Cash out,2023-02-07,amb asg gh ajb awz ar,b
+a 1,20.00,USD,debit,Cash out,2023-02-07,amb asg ip bbu awz ft,b
+a 1,"2,245.12",USD,debit,Cash out,2023-02-07,bjx as,c
+a 1,24.00,USD,debit,Cash out,2023-02-07,amb asg gh ajb awz bxj,b
+a 1,"2,198.50",USD,debit,Cash out,2023-02-07,bjx as,c
+a 1,17.19,USD,debit,Cash out,2023-02-07,amb asg ip wu awz at,b
+a 1,49.00,USD,debit,Cash out,2023-02-07,amb asg gh ajb awz bbq,b
+a 1,276.50,USD,debit,Cash out,2023-02-07,amb asg cbe ckf awz aqk,b
+a 1,"2,520.00",USD,debit,Cash out,2023-02-07,bjx as,c
+a 1,97.37,USD,debit,Cash out,2023-02-07,amb asg gh ajb awz ayj,b
+a 1,246.75,USD,debit,Cash out,2023-02-07,amb asg ub dp awz tw,b
+a 1,155.01,USD,debit,Cash out,2023-02-07,amb asg cma mr mj awz bqn,b
+a 1,4.79,USD,debit,Cash out,2023-02-07,amb asg gh anm awz wj,b
+a 1,154.94,USD,debit,Cash out,2023-02-07,amb asg cma mr mj awz ccs,b
+a 1,5.16,USD,debit,Cash out,2023-02-07,amb asg cbe cw awz bck,b
+a 1,95.00,USD,debit,Cash out,2023-02-07,amb asg bwx bqe awz bbn,b
+a 1,135.00,USD,debit,Cash out,2023-02-07,amb asg bwx bqe awz cgm,b
+a 1,430.92,USD,debit,Cash out,2023-02-07,bjx as,c
+a 2,"24,920.09",USD,credit,Cash in,2023-02-07,buy aq cbw,a
+a 2,"3,464.36",USD,credit,Cash in,2023-02-07,cbl hp bul fa,a
+a 3,"6,395.91",USD,credit,Cash in,2023-02-07,nj cdc ha awz afi,d
+a 3,116.19,USD,debit,Cash out,2023-02-07,bqh ay agw,c
+a 3,"2,964.00",USD,credit,Cash in,2023-02-07,ky aqg clr ai coh,d
+a 3,"3,705.00",USD,credit,Cash in,2023-02-07,ky aqg clr ai brt,d
+a 3,"1,111.50",USD,credit,Cash in,2023-02-07,ky aqg clr ai agb,d
+a 3,"10,671.20",USD,credit,Cash in,2023-02-07,nj cdc ha awz la,d
+a 3,"3,705.00",USD,credit,Cash in,2023-02-07,ky aqg clr ai cps,d
+a 3,125.21,USD,debit,Cash out,2023-02-07,amb asg ati af awz bit,b
+a 3,"4,446.00",USD,credit,Cash in,2023-02-07,ky aqg clr ai rj,d
+a 3,"3,853.20",USD,credit,Cash in,2023-02-07,ky aqg clr ai aww,d
+a 3,"3,705.00",USD,credit,Cash in,2023-02-07,ky aqg clr ai cq,d
+a 3,"1,149.36",USD,debit,Cash out,2023-02-07,amb asg cma ake awz cmz,b
+a 3,"1,482.00",USD,credit,Cash in,2023-02-07,ky aqg clr ai cco,d
+c 6,575.50,USD,credit,Cash in,2023-02-06,buy aq fr,a
+a 1,"82,393.94",USD,credit,Cash in,2023-02-06,buy aq chk,a
+a 1,127.42,USD,credit,Cash in,2023-02-06,buy aq boz,a
+a 1,"118,764.83",USD,credit,Cash in,2023-02-06,awi ael auo clr awz bci,d
+a 1,328.54,USD,debit,Cash out,2023-02-06,bjx as,c
+a 1,19.77,USD,debit,Cash out,2023-02-06,amb asg bwx ccl in rd,b
+a 1,26.25,USD,debit,Cash out,2023-02-06,amb asg gh bbt in bnc,b
+a 1,18.86,USD,debit,Cash out,2023-02-06,amb asg bwx ccl in brc,b
+a 1,"12,696.44",USD,debit,Cash out,2023-02-06,bjx as,c
+a 1,7.98,USD,debit,Cash out,2023-02-06,amb asg bwx ccl in bxb,b
+a 1,1.00,USD,debit,Cash out,2023-02-06,amb asg bwx ccl in ayx,b
+a 1,2.00,USD,debit,Cash out,2023-02-06,amb asg bwx ccl in ckt,b
+a 1,4.00,USD,debit,Cash out,2023-02-06,amb asg bwx ccl in ax,b
+a 1,13.59,USD,debit,Cash out,2023-02-06,amb asg bwx ccl in x,b
+a 2,"16,522.34",USD,credit,Cash in,2023-02-06,buy aq auw,a
+a 3,"5,001.75",USD,credit,Cash in,2023-02-06,ky aqg clr ai caj,d
+a 3,"2,964.00",USD,debit,Cash out,2023-02-06,ban cdc agj bky,d
+a 3,"2,186.69",USD,debit,Cash out,2023-02-06,ban cdc agj aav,d
+a 3,"3,668.69",USD,debit,Cash out,2023-02-06,ban cdc agj ali,d
+a 3,"4,336.23",USD,credit,Cash in,2023-02-06,nj cdc ha in bhj,d
+a 3,"80,459.20",USD,debit,Cash out,2023-02-06,bqh ay agw,c
+a 3,243.30,USD,debit,Cash out,2023-02-06,ban cdc agj bkj,d
+a 3,185.25,USD,debit,Cash out,2023-02-06,ban cdc agj bxm,d
+a 3,"4,446.00",USD,credit,Cash in,2023-02-06,ky aqg clr ai bus,d
+a 3,"2,130.37",USD,debit,Cash out,2023-02-06,ban cdc agj akq,d
+a 3,"1,729.66",USD,debit,Cash out,2023-02-06,bhf yl ci adk bhf yl ul,c
+a 3,"2,001.44",USD,debit,Cash out,2023-02-06,ban cdc agj ast,d
+a 3,"4,816.50",USD,debit,Cash out,2023-02-06,ban cdc agj als,d
+a 3,"1,468.87",USD,debit,Cash out,2023-02-06,yg bcc akd,c
+a 3,"1,111.50",USD,credit,Cash in,2023-02-06,ky aqg clr ai apo,d
+a 3,624.47,USD,debit,Cash out,2023-02-06,ban cdc agj xn,d
+a 3,"4,653.12",USD,debit,Cash out,2023-02-06,ban cdc agj ts,d
+a 3,"2,017.78",USD,debit,Cash out,2023-02-06,ban cdc agj anz,d
+a 3,"2,815.06",USD,debit,Cash out,2023-02-06,ban cdc agj bmn,d
+a 3,"2,223.00",USD,credit,Cash in,2023-02-06,ky aqg clr ai cae,d
+a 3,674.16,USD,debit,Cash out,2023-02-06,ban cdc agj nv,d
+a 3,"6,637.69",USD,debit,Cash out,2023-02-06,ban cdc agj bsn,d
+a 3,"4,866.00",USD,debit,Cash out,2023-02-06,ban cdc agj bst,d
+a 3,550.02,USD,debit,Cash out,2023-02-06,yg kr is,c
+a 3,"1,240.83",USD,debit,Cash out,2023-02-06,ban cdc agj asp,d
+a 3,"3,298.19",USD,debit,Cash out,2023-02-06,ban cdc agj cal,d
+a 3,"1,925.31",USD,debit,Cash out,2023-02-06,ban cdc agj axp,d
+a 3,"1,997.14",USD,debit,Cash out,2023-02-06,ban cdc agj ayg,d
+a 3,"3,367.10",USD,debit,Cash out,2023-02-06,ban cdc agj arg,d
+a 3,"1,816.19",USD,debit,Cash out,2023-02-06,ban cdc agj bza,d
+a 3,"1,630.20",USD,debit,Cash out,2023-02-06,ban cdc agj bdf,d
+a 3,"2,390.09",USD,debit,Cash out,2023-02-06,ban cdc agj aya,d
+a 3,"2,074.80",USD,debit,Cash out,2023-02-06,ban cdc agj bat,d
+a 3,"3,334.50",USD,credit,Cash in,2023-02-06,ky aqg clr ai mh,d
+a 3,"1,593.89",USD,debit,Cash out,2023-02-06,ban cdc agj ckh,d
+c 6,170.68,USD,credit,Cash in,2023-02-03,buy aq fr,a
+a 1,"100,659.73",USD,credit,Cash in,2023-02-03,buy aq bmt,a
+a 1,388.11,USD,credit,Cash in,2023-02-03,buy aq can,a
+a 1,225.12,USD,debit,Cash out,2023-02-03,od ayv od bhi cmo,f
+a 1,"2,469.76",USD,debit,Cash out,2023-02-03,bfr akz bfr bwx abt,f
+a 1,"8,984.16",USD,debit,Cash out,2023-02-03,jo kd nx jo kd,f
+a 1,"3,034.52",USD,debit,Cash out,2023-02-03,cgk aqu cgk alf cig,f
+a 1,531.36,USD,debit,Cash out,2023-02-03,cio nr hv cio nr bzf zp,f
+a 1,"6,624.71",USD,debit,Cash out,2023-02-03,aam jm baa cik aam jm brh,f
+a 1,"1,545.93",USD,debit,Cash out,2023-02-03,bqa bjb bqa bjb bvg,f
+a 1,"2,808.72",USD,debit,Cash out,2023-02-03,bzc aft bzc wi bda,f
+a 1,"5,152.39",USD,debit,Cash out,2023-02-03,arq aae arq aoj ceo,f
+a 1,"6,986.72",USD,debit,Cash out,2023-02-03,gf bor gf asm brw,f
+a 1,"2,999.90",USD,debit,Cash out,2023-02-03,bqy aam bqy bog cnv,f
+a 1,719.99,USD,debit,Cash out,2023-02-03,mw aam jm boo mw aam bwm caz,f
+a 1,"14,691.26",USD,debit,Cash out,2023-02-03,bxy bsm bxy amx jv,f
+a 1,681.93,USD,debit,Cash out,2023-02-03,xk crl xk ah avv,f
+a 1,"2,850.03",USD,debit,Cash out,2023-02-03,s axn s vo crm,f
+a 1,750.15,USD,debit,Cash out,2023-02-03,cnl aru cnl uz fj,f
+a 1,"10,608.29",USD,debit,Cash out,2023-02-03,aqt aov aqt aov bgt,f
+a 1,258.29,USD,debit,Cash out,2023-02-03,mw aam jm boo mw aam bwm cj,f
+a 1,805.50,USD,debit,Cash out,2023-02-03,bvq aam fn gh bvq aam bqg,f
+a 1,"3,983.03",USD,debit,Cash out,2023-02-03,brp aam bwh brp bog anr,f
+a 1,"8,091.58",USD,debit,Cash out,2023-02-03,boy bbx ub boy cgp bto,f
+a 1,328.13,USD,debit,Cash out,2023-02-03,va biz va dw bba,f
+a 1,688.62,USD,debit,Cash out,2023-02-03,cia xz cia cjd js,f
+a 1,"1,170.10",USD,debit,Cash out,2023-02-03,xj pe xj cmx ut,f
+a 1,416.75,USD,debit,Cash out,2023-02-03,bzc bf bzc bt aoh,f
+a 1,"3,969.63",USD,debit,Cash out,2023-02-03,ajc kp ajc bav cnd,f
+a 1,980.68,USD,debit,Cash out,2023-02-03,auj aqe auj apf bpx,f
+a 1,"1,166.55",USD,debit,Cash out,2023-02-03,caw bur caw cmy byf,f
+a 1,"2,742.06",USD,debit,Cash out,2023-02-03,kj aal kj chm vm,f
+a 1,"2,037.74",USD,debit,Cash out,2023-02-03,ccw ckf ccw bas,f
+a 1,566.78,USD,debit,Cash out,2023-02-03,ez awc ez vn bkl,f
+a 1,"8,330.08",USD,debit,Cash out,2023-02-03,byu caa byu fl ccd,f
+a 1,"7,308.14",USD,debit,Cash out,2023-02-03,gf afx gf bmf ato,f
+a 1,933.24,USD,debit,Cash out,2023-02-03,ahp bqw ahp aul go,f
+a 1,116.60,USD,debit,Cash out,2023-02-03,bhu bnj bhu bil ct,f
+a 1,"13,301.50",USD,debit,Cash out,2023-02-03,ayp aas ayp auf btt,f
+a 1,"9,324.79",USD,debit,Cash out,2023-02-03,bqt afr bqt gd amd,f
+a 1,"3,713.28",USD,debit,Cash out,2023-02-03,bop cfo bop bnp jc,f
+a 1,"7,541.31",USD,debit,Cash out,2023-02-03,ccj atg ccj cnh bjn,f
+a 1,"4,233.65",USD,debit,Cash out,2023-02-03,alb aam alb bog axi,f
+a 1,"3,007.90",USD,debit,Cash out,2023-02-03,id ajz id azs xx,f
+a 1,407.42,USD,debit,Cash out,2023-02-03,cho awn cho brb air,f
+a 1,220.04,USD,debit,Cash out,2023-02-03,bpk wx bpk btu,f
+a 1,"1,211.30",USD,debit,Cash out,2023-02-03,ark st ark st awd,f
+a 1,385.08,USD,debit,Cash out,2023-02-03,aku brs aku alo bxs,f
+a 1,"1,765.78",USD,debit,Cash out,2023-02-03,chv bec chv em arl,f
+a 1,"2,200.52",USD,debit,Cash out,2023-02-03,dg cbu dg bdt afn,f
+a 1,532.15,USD,debit,Cash out,2023-02-03,ahm bgm ahm aor amh,f
+a 1,999.36,USD,debit,Cash out,2023-02-03,cmt apr cmt ati gq,f
+a 1,"10,343.68",USD,debit,Cash out,2023-02-03,aam jm baa bpt aam jm crc,f
+a 1,975.89,USD,debit,Cash out,2023-02-03,wz xq wz im aun,f
+a 1,"3,616.00",USD,debit,Cash out,2023-02-03,cfp azi cfp bkd my,f
+a 1,"2,928.45",USD,debit,Cash out,2023-02-03,cpo col cpo fe bau,f
+a 1,"7,407.51",USD,debit,Cash out,2023-02-03,caw btr caw bmx apl,f
+a 1,"1,489.47",USD,debit,Cash out,2023-02-03,od cgp od bvt cdp,f
+a 1,"5,860.59",USD,debit,Cash out,2023-02-03,bww aze bww asi ayu,f
+a 1,"6,531.29",USD,debit,Cash out,2023-02-03,qf cod qf cd asw,f
+a 1,"1,283.93",USD,debit,Cash out,2023-02-03,cpv bhk cpv rm,f
+a 1,"3,216.55",USD,debit,Cash out,2023-02-03,aam jm baa vr aam jm baz,f
+a 1,255.00,USD,debit,Cash out,2023-02-03,amb asg bie bmb sz azu,b
+a 1,686.47,USD,debit,Cash out,2023-02-03,bws bj bws bj cmb,f
+a 1,"1,294.00",USD,debit,Cash out,2023-02-03,bwe anf bwe io aym,f
+a 1,416.75,USD,debit,Cash out,2023-02-03,bg bcb bg bcb an,f
+a 1,379.96,USD,debit,Cash out,2023-02-03,aeg dt aeg rt np,f
+a 1,"3,075.98",USD,debit,Cash out,2023-02-03,cns ats cns bjc sf,f
+a 1,165.03,USD,debit,Cash out,2023-02-03,boj nx ie boj ub,f
+a 1,"1,097.55",USD,debit,Cash out,2023-02-03,ciz cfq ciz chq ari,f
+a 1,220.04,USD,debit,Cash out,2023-02-03,ayb pv ayb ne cqp,f
+a 1,"2,038.79",USD,debit,Cash out,2023-02-03,uc fg uc ja boi,f
+a 1,935.00,USD,debit,Cash out,2023-02-03,ok anm ok qz,f
+a 1,330.07,USD,debit,Cash out,2023-02-03,aam jm baa avi aam jm aio,f
+a 1,"4,473.10",USD,debit,Cash out,2023-02-03,ayi bj ayi cgc cle,f
+a 1,"1,090.02",USD,debit,Cash out,2023-02-03,gf bss gf ot ef,f
+a 1,"10,473.71",USD,debit,Cash out,2023-02-03,bwk blp bwk cjz awa,f
+a 1,"3,707.03",USD,debit,Cash out,2023-02-03,kj adr kj adr cfi,f
+a 1,"1,922.67",USD,debit,Cash out,2023-02-03,cmh bym cmh bym e,f
+a 1,"6,418.70",USD,debit,Cash out,2023-02-03,bzc cli bzc ben bia,f
+a 1,"64,181.79",USD,debit,Cash out,2023-02-03,hx bzn hx btn agz,f
+a 1,"1,332.34",USD,debit,Cash out,2023-02-03,bkn aov cfc bkn ayd azz,f
+a 1,"1,766.95",USD,debit,Cash out,2023-02-03,azx clm azx jb cnc,f
+a 1,700.14,USD,debit,Cash out,2023-02-03,ccw ckl ccw cbm,f
+a 1,64.19,USD,debit,Cash out,2023-02-03,amb asg hq chb sz chl,b
+a 1,550.11,USD,debit,Cash out,2023-02-03,bew hl bew afc ady,f
+a 1,291.73,USD,debit,Cash out,2023-02-03,xk bu xk bpn so,f
+a 1,"1,832.91",USD,debit,Cash out,2023-02-03,cnp cnp azh cnp bhe cqo,f
+a 1,"10,176.37",USD,debit,Cash out,2023-02-03,bih xd mc bih xd bie bfe,f
+a 1,"1,299.29",USD,debit,Cash out,2023-02-03,gb aam bdt gb apk,f
+a 1,"6,155.28",USD,debit,Cash out,2023-02-03,axh aaq axh su aca,f
+a 1,281.14,USD,debit,Cash out,2023-02-03,ii ahb ii asm bht,f
+a 1,"3,437.22",USD,debit,Cash out,2023-02-03,asx cai asx bvt cat,f
+a 1,177.36,USD,debit,Cash out,2023-02-03,mw bcg aam bxl mw bcg aam,f
+a 1,"3,874.62",USD,debit,Cash out,2023-02-03,bzc cjs bzc vr aag,f
+a 1,408.42,USD,debit,Cash out,2023-02-03,apm cmk apm bma beq,f
+a 1,800.16,USD,debit,Cash out,2023-02-03,adf lu adf bbr bsy,f
+a 1,"2,219.19",USD,debit,Cash out,2023-02-03,bri bal bri asm bmj,f
+a 1,"2,459.24",USD,debit,Cash out,2023-02-03,yg bzq sz bap,c
+a 1,"3,790.60",USD,debit,Cash out,2023-02-03,ir avn ir hg bjh,f
+a 1,500.00,USD,debit,Cash out,2023-02-03,bix aam bov bix aam ie bnr,f
+a 1,126.69,USD,debit,Cash out,2023-02-03,fd cra fd ri azf,f
+a 1,"8,538.05",USD,debit,Cash out,2023-02-03,aam jm baa aul aam jm and,f
+a 1,832.92,USD,debit,Cash out,2023-02-03,abl ld aat abl ld bw bcx,f
+a 1,"25,617.72",USD,debit,Cash out,2023-02-03,bbs ade bbs buz ald,f
+a 1,"3,073.31",USD,debit,Cash out,2023-02-03,ala axw ala qv cix,f
+a 1,"2,155.45",USD,debit,Cash out,2023-02-03,azn bbg cbe azn bis bji,f
+a 1,"1,689.94",USD,debit,Cash out,2023-02-03,arb aat arb fp cqj,f
+a 1,"1,203.30",USD,debit,Cash out,2023-02-03,byq ckn byq aej ia,f
+a 1,408.42,USD,debit,Cash out,2023-02-03,bwg cpn bwg hq bcy,f
+a 1,458.43,USD,debit,Cash out,2023-02-03,mq lk mq ho nn,f
+a 1,100.00,USD,debit,Cash out,2023-02-03,xh bed bov xh bxz agp,f
+a 1,"5,867.80",USD,debit,Cash out,2023-02-03,cfd bhl cfd cqg v,f
+a 1,164.93,USD,debit,Cash out,2023-02-03,mw aam jm boo mw aam bwm cml,f
+a 1,"5,521.78",USD,debit,Cash out,2023-02-03,bey cfh bey aao ceq,f
+a 1,10.49,USD,debit,Cash out,2023-02-03,aib bks aib btj ceu,f
+a 1,"1,252.25",USD,debit,Cash out,2023-02-03,cfp aaw cfp bfi ciu,f
+a 1,478.43,USD,debit,Cash out,2023-02-03,bzc afb bzc cde akw,f
+a 1,"11,388.62",USD,debit,Cash out,2023-02-03,cby cnk cby ip aol,f
+a 1,"5,162.62",USD,debit,Cash out,2023-02-03,je sy je pb acy,f
+a 1,"5,506.86",USD,debit,Cash out,2023-02-03,acp cdk acp bpt bye,f
+a 1,"1,375.28",USD,debit,Cash out,2023-02-03,ahy aam z ahy bog bin,f
+a 1,"1,256.25",USD,debit,Cash out,2023-02-03,aip ahv ie aip bma ado,f
+a 1,"1,626.57",USD,debit,Cash out,2023-02-03,ba buo ba bnh aoi,f
+a 1,299.97,USD,debit,Cash out,2023-02-03,cho bqv cho atc aln,f
+a 1,"7,351.74",USD,debit,Cash out,2023-02-03,cgq cnq cgq bwx cck,f
+a 1,"5,584.32",USD,debit,Cash out,2023-02-03,hy ahd hy cgy,f
+a 1,582.05,USD,debit,Cash out,2023-02-03,caw mn caw cct bez,f
+a 1,921.85,USD,debit,Cash out,2023-02-03,hi aam auo hi bog bfs,f
+a 1,466.62,USD,debit,Cash out,2023-02-03,ccw ckf ccw qt,f
+a 1,808.50,USD,debit,Cash out,2023-02-03,adp ahe adp bz acq,f
+a 1,308.29,USD,debit,Cash out,2023-02-03,apw bcb apw ape axu,f
+a 1,"2,077.80",USD,debit,Cash out,2023-02-03,cjj bjv cjj ckm abs,f
+a 1,"1,901.83",USD,debit,Cash out,2023-02-03,wz wn wz kx yp,f
+a 1,"1,552.64",USD,debit,Cash out,2023-02-03,alh aj alh cgv btw,f
+a 1,"4,320.64",USD,debit,Cash out,2023-02-03,ajs bo ajs iu cjy,f
+a 1,"19,879.64",USD,debit,Cash out,2023-02-03,hl aam hl bog sc,f
+a 1,753.52,USD,debit,Cash out,2023-02-03,hx jn hx akg cri,f
+a 1,"1,333.20",USD,debit,Cash out,2023-02-03,ba agt ba cpz rr,f
+a 1,"1,314.87",USD,debit,Cash out,2023-02-03,bws box bws blx bra,f
+a 1,92.03,USD,debit,Cash out,2023-02-03,amb asg hq chb sz nt,b
+a 1,"15,047.45",USD,debit,Cash out,2023-02-03,bpp bj bpp fk,f
+a 1,"2,880.32",USD,debit,Cash out,2023-02-03,dm lc dm ati bth,f
+a 1,218.05,USD,debit,Cash out,2023-02-03,kv ayb kv afv,f
+a 1,"3,695.12",USD,debit,Cash out,2023-02-03,ac ji ac buk cez,f
+a 1,"10,898.27",USD,debit,Cash out,2023-02-03,cid or cid btf cfj,f
+a 1,"7,723.96",USD,debit,Cash out,2023-02-03,atz aqs atz bwx aza,f
+a 1,"2,495.50",USD,debit,Cash out,2023-02-03,bzb bfy bzb clt bv,f
+a 1,"5,895.22",USD,debit,Cash out,2023-02-03,apw bol apw buw aez,f
+a 1,"2,444.76",USD,debit,Cash out,2023-02-03,beo cdn beo amt bph,f
+a 1,"1,541.73",USD,debit,Cash out,2023-02-03,bfo aie bfo jb uu,f
+a 1,"6,330.96",USD,debit,Cash out,2023-02-03,asu qm asu hb cfr,f
+a 1,"4,985.13",USD,debit,Cash out,2023-02-03,bzk awm bzk chx cmn,f
+a 1,"2,462.16",USD,debit,Cash out,2023-02-03,hx do hx ckx cib,f
+a 1,"3,350.31",USD,debit,Cash out,2023-02-03,bgc on bgc aw cf,f
+a 1,"3,654.79",USD,debit,Cash out,2023-02-03,bbb yj bbb fl bs,f
+a 1,549.94,USD,debit,Cash out,2023-02-03,u yy u atk bvs,f
+a 1,456.09,USD,debit,Cash out,2023-02-03,aam jm baa bwu aam jm um,f
+a 1,959.90,USD,debit,Cash out,2023-02-03,zn qx zn fc wb,f
+a 1,"2,733.07",USD,debit,Cash out,2023-02-03,bqi ahh bqi fs bdu,f
+a 1,"3,548.45",USD,debit,Cash out,2023-02-03,cns abq cns abq cp,f
+a 1,"2,801.53",USD,debit,Cash out,2023-02-03,abz ana abz aes cgj,f
+a 1,"1,108.42",USD,debit,Cash out,2023-02-03,bpp abl bpp cdq,f
+a 1,"5,664.91",USD,debit,Cash out,2023-02-03,cap cjv cap bkd aop,f
+a 1,366.74,USD,debit,Cash out,2023-02-03,lt bnk lt aut ace,f
+a 1,"2,991.75",USD,debit,Cash out,2023-02-03,byi bmm byi bm axv,f
+a 1,824.69,USD,debit,Cash out,2023-02-03,anh aie anh aie cqk,f
+a 1,"5,962.91",USD,debit,Cash out,2023-02-03,cld abp cld sk aqq,f
+a 1,"3,505.58",USD,debit,Cash out,2023-02-03,aam jm baa fs aam jm cqv,f
+a 1,189.19,USD,debit,Cash out,2023-02-03,amb asg ub dp sz bce,b
+a 1,"7,799.73",USD,debit,Cash out,2023-02-03,ael aam cjk ael aam hq bid,f
+a 1,416.75,USD,debit,Cash out,2023-02-03,cgn avn cgn avn cgh,f
+a 1,"3,518.00",USD,debit,Cash out,2023-02-03,jy aam jm jy aam ae,f
+a 1,"2,710.54",USD,debit,Cash out,2023-02-03,zv cev zv di cro,f
+a 1,651.14,USD,debit,Cash out,2023-02-03,apv cgp apv cc azv,f
+a 1,439.96,USD,debit,Cash out,2023-02-03,gr bom gr bvu zq,f
+a 1,315.01,USD,debit,Cash out,2023-02-03,aam jm baa qc aam jm xr,f
+a 1,"1,850.83",USD,debit,Cash out,2023-02-03,zi gv zi cjo,f
+a 1,480.86,USD,debit,Cash out,2023-02-03,aam jm baa ben aam jm arz,f
+a 1,177.35,USD,debit,Cash out,2023-02-03,btx ble btx ble tq,f
+a 1,"1,317.24",USD,debit,Cash out,2023-02-03,nm ada nm wg bxd,f
+a 1,"11,316.80",USD,debit,Cash out,2023-02-03,ahp bqw ahp aul but,f
+a 1,769.92,USD,debit,Cash out,2023-02-03,azd dl azd rb agi,f
+a 1,"2,056.02",USD,debit,Cash out,2023-02-03,bih ma bih bvh ox,f
+a 1,476.39,USD,debit,Cash out,2023-02-03,va ccc va td atb,f
+a 1,190.47,USD,debit,Cash out,2023-02-03,aml aji aml bp chw,f
+a 1,962.70,USD,debit,Cash out,2023-02-03,xw bno xw bwx aom,f
+a 1,587.62,USD,debit,Cash out,2023-02-03,cfa ib cfa bwx cmw,f
+a 1,"8,534.22",USD,debit,Cash out,2023-02-03,bzk bwn bzk cou cna,f
+a 1,"2,210.45",USD,debit,Cash out,2023-02-03,cfk ahs cfk bpy dr,f
+a 1,"2,049.53",USD,debit,Cash out,2023-02-03,aam arx baa cik aam arx bme,f
+a 1,"11,548.25",USD,debit,Cash out,2023-02-03,cbs aam cja cbs bog cmc,f
+a 1,"5,125.72",USD,debit,Cash out,2023-02-03,bvl cjx bvl cbe brr,f
+a 1,"2,083.27",USD,debit,Cash out,2023-02-03,aua bip aua pp,f
+a 1,495.10,USD,debit,Cash out,2023-02-03,qd hu qd cek aci,f
+a 1,"6,286.49",USD,debit,Cash out,2023-02-03,cb boe cb gc ccv,f
+a 1,"1,645.33",USD,debit,Cash out,2023-02-03,cbi bzy cbi bzo anx,f
+a 1,"2,950.46",USD,debit,Cash out,2023-02-03,bzv cif bzv afw aju,f
+a 1,"2,694.11",USD,debit,Cash out,2023-02-03,up cjh up tp bvw,f
+a 1,"5,765.65",USD,debit,Cash out,2023-02-03,wh cly wh adt bvp,f
+a 1,"1,422.12",USD,debit,Cash out,2023-02-03,bjq qh bjq bwt axe,f
+a 1,"10,917.40",USD,debit,Cash out,2023-02-03,dm cgu dm hq xb,f
+a 1,"1,291.86",USD,debit,Cash out,2023-02-03,mw aam jm boo mw aam bwm cfy,f
+a 1,"2,860.47",USD,debit,Cash out,2023-02-03,ze bwv ze bwv aeu,f
+a 1,958.02,USD,debit,Cash out,2023-02-03,wr ckf wr hj ccz,f
+a 1,413.29,USD,debit,Cash out,2023-02-03,aam jm baa bqk aam jm bco,f
+a 1,977.15,USD,debit,Cash out,2023-02-03,mw we aam mw bwd cew,f
+a 1,88.59,USD,debit,Cash out,2023-02-03,amb asg hq chb sz cdr,b
+a 1,873.42,USD,debit,Cash out,2023-02-03,ls vk ls bql tn,f
+a 1,348.40,USD,debit,Cash out,2023-02-03,bgj bkc bgj pc avb,f
+a 1,"3,567.42",USD,debit,Cash out,2023-02-03,ahx brv amy bdt ahx brv bud bbh,f
+a 1,"4,116.79",USD,debit,Cash out,2023-02-03,aam jm baa bay aam jm uf,f
+a 1,"3,344.01",USD,debit,Cash out,2023-02-03,aam cga baa bw aam jm cos,f
+a 1,12.19,USD,debit,Cash out,2023-02-03,ayc cji ayc sn bkz,f
+a 1,"1,380.53",USD,debit,Cash out,2023-02-03,ask cop ask lh aqc,f
+a 1,351.26,USD,debit,Cash out,2023-02-03,kj qq kj qq b,f
+a 1,795.64,USD,debit,Cash out,2023-02-03,bzc byz bzc bgb md,f
+a 1,"1,969.86",USD,debit,Cash out,2023-02-03,cdv bnu cdv fo beg,f
+a 1,"2,175.38",USD,debit,Cash out,2023-02-03,bki boq bki cg yc,f
+a 1,"2,735.89",USD,debit,Cash out,2023-02-03,aam jm baa cr aam jm cqu,f
+a 1,"1,141.06",USD,debit,Cash out,2023-02-03,cpr akn cpr bma axc,f
+a 1,840.17,USD,debit,Cash out,2023-02-03,yr bfm yr awf yf,f
+a 1,"10,785.14",USD,debit,Cash out,2023-02-03,bzc aft bzc wi fz,f
+a 1,"4,625.87",USD,debit,Cash out,2023-02-03,mw cah z mw ayt acb,f
+a 1,"12,105.62",USD,debit,Cash out,2023-02-03,mw cjn aam mw amc beu,f
+a 1,591.79,USD,debit,Cash out,2023-02-03,bng ch bng bjt xs,f
+a 1,"16,987.76",USD,debit,Cash out,2023-02-03,dl cqq aam dl aoy byy,f
+a 1,416.75,USD,debit,Cash out,2023-02-03,bmg acs bmg bkh cbx,f
+a 1,841.25,USD,debit,Cash out,2023-02-03,byx buq byx bw bln,f
+a 1,350.07,USD,debit,Cash out,2023-02-03,bjk aga bjk aad bnn,f
+a 1,"5,332.76",USD,debit,Cash out,2023-02-03,aii aiw aii pb cao,f
+a 1,"2,250.53",USD,debit,Cash out,2023-02-03,cnl ks cnl ave bex,f
+a 1,"1,079.69",USD,debit,Cash out,2023-02-03,bsw nx cdb bsw bog,f
+a 1,991.87,USD,debit,Cash out,2023-02-03,op nx auo op nx iq anb,f
+a 1,"9,530.82",USD,debit,Cash out,2023-02-03,cbv bjl cbv bcp cqd,f
+a 1,"2,518.30",USD,debit,Cash out,2023-02-03,clq awb clq cdh,f
+a 1,700.14,USD,debit,Cash out,2023-02-03,ccw ckl ccw vp,f
+a 1,"11,639.38",USD,debit,Cash out,2023-02-03,aeb ey aeb brl bx,f
+a 1,"4,298.67",USD,debit,Cash out,2023-02-03,abg cca adi abg cca gh anw,f
+a 1,"2,341.80",USD,debit,Cash out,2023-02-03,bzc wx bzc qn aap,f
+a 1,"5,211.55",USD,debit,Cash out,2023-02-03,aam jm baa pf aam jm beh,f
+a 1,"4,795.09",USD,debit,Cash out,2023-02-03,cmt apr cmt ati add,f
+a 1,75.28,USD,debit,Cash out,2023-02-03,au amw au amw awj,f
+a 1,"5,337.37",USD,debit,Cash out,2023-02-03,vh acn vh tf of,f
+a 1,"2,919.82",USD,debit,Cash out,2023-02-03,bjk abh bjk bgy mm,f
+a 1,32.95,USD,debit,Cash out,2023-02-03,amb asg bma cn sz bea,b
+a 1,758.05,USD,debit,Cash out,2023-02-03,sg ccb sg nh ht,f
+a 1,"1,925.72",USD,debit,Cash out,2023-02-03,awh bfw awh gk,f
+a 1,"2,424.47",USD,debit,Cash out,2023-02-03,be gp be vr bho,f
+a 1,"5,847.44",USD,debit,Cash out,2023-02-03,aqy aam z aqy bog lo,f
+a 1,"2,362.39",USD,debit,Cash out,2023-02-03,bqp gx bqp bgh vx,f
+a 1,916.70,USD,debit,Cash out,2023-02-03,cld ye cld bdo cjr,f
+a 1,"1,916.47",USD,debit,Cash out,2023-02-03,cqb avz cqb et ya,f
+a 1,"6,320.76",USD,debit,Cash out,2023-02-03,arq cqz arq wc cku,f
+a 1,"3,233.95",USD,debit,Cash out,2023-02-03,bop cjx bop py ve,f
+a 1,"2,202.66",USD,debit,Cash out,2023-02-03,ars avn ars hg ayn,f
+a 1,"4,806.56",USD,debit,Cash out,2023-02-03,cfp avl cfp cc cni,f
+a 1,550.12,USD,debit,Cash out,2023-02-03,zm acr zm bdp km,f
+a 1,"4,563.01",USD,debit,Cash out,2023-02-03,axw f axw hj ee,f
+a 1,625.13,USD,debit,Cash out,2023-02-03,bmg aal bmg bue aph,f
+a 1,"8,787.66",USD,debit,Cash out,2023-02-03,ahm bgm ahm aor cky,f
+a 1,608.73,USD,debit,Cash out,2023-02-03,cbs acj cbs aul agc,f
+a 1,"4,419.18",USD,debit,Cash out,2023-02-03,ajr jt ajr bie cdg,f
+a 1,"5,081.27",USD,debit,Cash out,2023-02-03,ahi hs ahi avy vv,f
+a 1,513.44,USD,debit,Cash out,2023-02-03,cey ags cey hq oj,f
+a 1,165.00,USD,debit,Cash out,2023-02-03,aam jm baa aul aam jm bju,f
+a 1,"8,307.64",USD,debit,Cash out,2023-02-03,byq ig byq bum bns,f
+a 1,"2,704.36",USD,debit,Cash out,2023-02-03,aod aov aod cx awl,f
+a 1,"5,688.94",USD,debit,Cash out,2023-02-03,bsz bsf bsz hq cbd,f
+a 1,"4,506.22",USD,debit,Cash out,2023-02-03,bko jw bko ayf agr,f
+a 1,948.24,USD,debit,Cash out,2023-02-03,atz aqs atz bwx blf,f
+a 1,"3,800.24",USD,debit,Cash out,2023-02-03,bww mr mj bww mr jd,f
+a 1,"23,433.70",USD,debit,Cash out,2023-02-03,cno arr cno avh cpa,f
+a 1,"1,225.25",USD,debit,Cash out,2023-02-03,bxq kk bxq azr ei,f
+a 1,552.12,USD,debit,Cash out,2023-02-03,od cpu od bjw cof,f
+a 1,"8,311.25",USD,debit,Cash out,2023-02-03,mw sq z mw akx bej,f
+a 1,904.18,USD,debit,Cash out,2023-02-03,ami bka ami bpa asy,f
+a 1,"2,773.24",USD,debit,Cash out,2023-02-03,gu aam caq gu cff,f
+a 1,"1,551.61",USD,debit,Cash out,2023-02-03,cnl aru cnl uz akk,f
+a 1,"3,892.78",USD,debit,Cash out,2023-02-03,arc bpl arc ep cnm,f
+a 1,"2,895.43",USD,debit,Cash out,2023-02-03,bvl bdq bvl abc bsp,f
+a 1,"5,980.45",USD,debit,Cash out,2023-02-03,bwz cpx bwz bpt sx,f
+a 1,"3,800.42",USD,debit,Cash out,2023-02-03,byo ld bjo byo ld bgp,f
+a 1,821.84,USD,debit,Cash out,2023-02-03,dz awt dz bzf asj,f
+a 1,"3,954.94",USD,debit,Cash out,2023-02-03,tk aqf tk cim,f
+a 1,"1,799.67",USD,debit,Cash out,2023-02-03,azg abu azg avh yn,f
+a 1,"1,105.72",USD,debit,Cash out,2023-02-03,caw aot caw gc bdg,f
+a 1,606.96,USD,debit,Cash out,2023-02-03,bzb vw bzb adm it,f
+a 1,"1,479.85",USD,debit,Cash out,2023-02-03,t atw t mr i,f
+a 1,"5,346.21",USD,debit,Cash out,2023-02-03,aab ash aab qi chj,f
+a 1,"2,778.89",USD,debit,Cash out,2023-02-03,aam jm baa zc aam jm cha,f
+a 1,651.22,USD,debit,Cash out,2023-02-03,cqe cjx cqe py afq,f
+a 1,"1,683.23",USD,debit,Cash out,2023-02-03,kv bxr kv bkp,f
+a 1,"3,064.91",USD,debit,Cash out,2023-02-03,dm bhy dm ub tr,f
+a 1,"5,849.16",USD,debit,Cash out,2023-02-03,bxi wm bxi bvk ff,f
+a 1,"2,474.82",USD,debit,Cash out,2023-02-03,boc ej boc asm clv,f
+a 1,"8,382.59",USD,debit,Cash out,2023-02-03,bch atp bch ud asz,f
+a 1,"7,468.32",USD,debit,Cash out,2023-02-03,cio aic abf cio aic bnt vi,f
+a 1,"1,210.00",USD,debit,Cash out,2023-02-03,cmq aep cmq ads aef,f
+a 1,51.95,USD,debit,Cash out,2023-02-03,amb asg ati cce sz yz,b
+a 1,"3,024.10",USD,debit,Cash out,2023-02-03,bdx bge awr bdx bge cpe,f
+a 1,"6,123.16",USD,debit,Cash out,2023-02-03,gf cce gf cx aoq,f
+a 1,"4,650.26",USD,debit,Cash out,2023-02-03,bdl bed cag bdl bed abc bsx,f
+a 1,525.44,USD,debit,Cash out,2023-02-03,va bvq va jl cog,f
+a 1,"1,204.64",USD,debit,Cash out,2023-02-03,ccj atg ccj cnh wl,f
+a 1,"3,091.12",USD,debit,Cash out,2023-02-03,abg ec abg pq byp,f
+a 1,"3,332.86",USD,debit,Cash out,2023-02-03,aam jm baa cbj aam jm bbk,f
+a 1,"3,823.22",USD,debit,Cash out,2023-02-03,kj adr kj adr bpe,f
+a 1,"7,028.88",USD,debit,Cash out,2023-02-03,ayc cji ayc sn cbo,f
+a 1,672.06,USD,debit,Cash out,2023-02-03,cre acj cre aul bjf,f
+a 1,"1,888.72",USD,debit,Cash out,2023-02-03,xj ub cel iq xj ub lm auc,f
+a 1,"4,621.74",USD,debit,Cash out,2023-02-03,abg aja abg azm pu,f
+a 1,"3,545.63",USD,debit,Cash out,2023-02-03,bze nx cag bze nx adk,f
+a 1,"1,633.66",USD,debit,Cash out,2023-02-03,bhc hf bhc ic he,f
+a 1,965.37,USD,debit,Cash out,2023-02-03,oy bmm bie oy bla clg,f
+a 1,76.00,USD,debit,Cash out,2023-02-03,ty bfw ty ps uo,f
+a 1,"3,891.66",USD,debit,Cash out,2023-02-03,bzw arj bzw bvr,f
+a 1,"1,818.52",USD,debit,Cash out,2023-02-03,mx pw mx pw bwc,f
+a 1,"3,077.41",USD,debit,Cash out,2023-02-03,byq bbg byq c bgv,f
+a 1,"2,475.49",USD,debit,Cash out,2023-02-03,bet bd bet ip bhg,f
+a 1,"1,168.00",USD,debit,Cash out,2023-02-03,aib bks aib btj bff,f
+a 1,"1,166.90",USD,debit,Cash out,2023-02-03,azt aik azt gj aqx,f
+a 1,83.08,USD,debit,Cash out,2023-02-03,ko cnl ko cnl bdw,f
+a 1,569.78,USD,debit,Cash out,2023-02-03,cqx ayb cqx yk,f
+a 1,"4,275.36",USD,debit,Cash out,2023-02-03,chy abj chy arf bdh,f
+a 1,823.49,USD,debit,Cash out,2023-02-03,aka cnz aka ub fq,f
+a 1,"2,829.13",USD,debit,Cash out,2023-02-03,cny cef cny azh azy,f
+a 1,993.53,USD,debit,Cash out,2023-02-03,ayo cfp bzf ayo alj bmy,f
+a 1,"4,383.65",USD,debit,Cash out,2023-02-03,bfg aof pi bfg aof afe,f
+a 1,"2,394.56",USD,debit,Cash out,2023-02-03,aiz sm aiz bgi ank,f
+a 1,"4,199.20",USD,debit,Cash out,2023-02-03,bix aam bov bix aam ie bft,f
+a 1,"4,188.67",USD,debit,Cash out,2023-02-03,ac ji ac buk cei,f
+a 1,"5,096.09",USD,debit,Cash out,2023-02-03,aox aam bxl aox aam,f
+a 1,"5,180.08",USD,debit,Cash out,2023-02-03,cqb aal bw cqb cx ahq,f
+a 1,493.17,USD,debit,Cash out,2023-02-03,kh cbz kh cbz bmk,f
+a 1,"2,347.43",USD,debit,Cash out,2023-02-03,coo adl coo bzo cdz,f
+a 1,"103,180.18",USD,credit,Cash in,2023-02-03,awi ael auo clr in bci,d
+a 1,"1,551.25",USD,debit,Cash out,2023-02-03,kj acz kj bef cs,f
+a 1,"3,650.70",USD,debit,Cash out,2023-02-03,l ab l adx cnx,f
+a 1,"6,021.31",USD,debit,Cash out,2023-02-03,kt aaw kt aim baw,f
+a 1,"1,383.43",USD,debit,Cash out,2023-02-03,fy bjp fy atk zz,f
+a 1,143.63,USD,debit,Cash out,2023-02-03,bxx crg bxx apz bow,f
+a 1,"5,570.24",USD,debit,Cash out,2023-02-03,apy aby apy bw ayk,f
+a 1,"3,080.68",USD,debit,Cash out,2023-02-03,chy che chy cot bjd,f
+a 1,551.77,USD,debit,Cash out,2023-02-03,dm aea dm abc ajk,f
+a 1,"4,046.39",USD,debit,Cash out,2023-02-03,tz cqr tz sl amz,f
+a 1,"8,503.38",USD,debit,Cash out,2023-02-03,apn d apn aim bkv,f
+a 1,746.82,USD,debit,Cash out,2023-02-03,asc avw asc brq,f
+a 1,146.45,USD,debit,Cash out,2023-02-03,cjm jj cjm cpw cjl,f
+a 1,"1,278.15",USD,debit,Cash out,2023-02-03,en cw bog en bmo bam,f
+a 1,140.03,USD,debit,Cash out,2023-02-03,bzc aar bzc qn aa,f
+a 1,"13,827.57",USD,debit,Cash out,2023-02-03,zk wa zk te ccu,f
+a 1,"2,576.98",USD,debit,Cash out,2023-02-03,ayb cpc ayb atr nk,f
+a 1,"2,743.28",USD,debit,Cash out,2023-02-03,cns com cns com axr,f
+a 2,"17,249.85",USD,credit,Cash in,2023-02-03,buy aq amk,a
+a 3,"3,853.20",USD,credit,Cash in,2023-02-03,ky aqg clr ai ik,d
+a 3,"2,223.00",USD,credit,Cash in,2023-02-03,ky aqg clr ai asr,d
+a 3,"3,056.62",USD,credit,Cash in,2023-02-03,ky aqg clr ai bjm,d
+a 3,"3,705.00",USD,credit,Cash in,2023-02-03,ky aqg clr ai chd,d
+a 3,"22,478.81",USD,credit,Cash in,2023-02-03,nj cdc ha sz uq,d
+a 3,"1,111.50",USD,credit,Cash in,2023-02-03,ky aqg clr ai cqi,d
+a 3,"3,334.50",USD,credit,Cash in,2023-02-03,ky aqg clr ai akm,d
+a 3,"3,482.70",USD,credit,Cash in,2023-02-03,ky aqg clr ai aqd,d
+a 3,"2,223.00",USD,credit,Cash in,2023-02-03,ky aqg clr ai aht,d
+a 3,150.00,USD,debit,Cash out,2023-02-03,amb asg cma buj sz amv,b
+a 3,"3,596.07",USD,credit,Cash in,2023-02-03,ky aqg clr ai vy,d
+a 3,"3,705.00",USD,credit,Cash in,2023-02-03,ky aqg clr ai auy,d
+a 3,"5,038.80",USD,credit,Cash in,2023-02-03,ky aqg clr ai cdm,d
+a 3,"1,482.00",USD,credit,Cash in,2023-02-03,ky aqg clr ai dy,d
+a 3,"3,334.50",USD,credit,Cash in,2023-02-03,ky aqg clr ai al,d
+a 3,"1,482.00",USD,credit,Cash in,2023-02-03,ky aqg clr ai cnt,d
+a 3,"1,852.50",USD,credit,Cash in,2023-02-03,ky aqg clr ai brj,d
+a 3,"1,482.00",USD,credit,Cash in,2023-02-03,ky aqg clr ai bgs,d
+a 3,"2,223.00",USD,credit,Cash in,2023-02-03,ky aqg clr ai aau,d
+a 3,"1,816.19",USD,credit,Cash in,2023-02-03,ky aqg clr ai cdf,d
+a 3,"2,964.00",USD,credit,Cash in,2023-02-03,ky aqg clr ai btg,d
+c 6,157.32,USD,debit,Cash out,2023-02-02,buy aq yx,a
+a 1,"84,913.59",USD,credit,Cash in,2023-02-02,buy aq bms,a
+a 1,358.08,USD,credit,Cash in,2023-02-02,buy aq axz,a
+a 1,15.95,USD,debit,Cash out,2023-02-02,amb asg bwx bbz mg agm,b
+a 1,185.00,USD,debit,Cash out,2023-02-02,amb asg ati cce mg ail,b
+a 1,40.00,USD,debit,Cash out,2023-02-02,amb asg bw awr mg bun,b
+a 1,481.46,USD,debit,Cash out,2023-02-02,amb asg bie che mg aco,b
+a 1,38.37,USD,debit,Cash out,2023-02-02,amb asg hq chb sz cqc,b
+a 1,148.03,USD,debit,Cash out,2023-02-02,amb asg ip aiw sz kg,b
+a 1,15.95,USD,debit,Cash out,2023-02-02,amb asg bwx bbz mg cqf,b
+a 1,11.00,USD,debit,Cash out,2023-02-02,amb asg bwx bbz mg amg,b
+a 1,33.00,USD,debit,Cash out,2023-02-02,amb asg bw awr mg bbf,b
+a 1,17.70,USD,debit,Cash out,2023-02-02,amb asg cbe cw mg alw,b
+a 1,19.00,USD,debit,Cash out,2023-02-02,amb asg bw awr mg ciq,b
+a 1,60.00,USD,debit,Cash out,2023-02-02,amb asg bw awr mg ahn,b
+a 1,15.95,USD,debit,Cash out,2023-02-02,amb asg bwx bbz mg auh,b
+a 1,184.50,USD,debit,Cash out,2023-02-02,amb asg ip bjg sz asl,b
+a 1,15.95,USD,debit,Cash out,2023-02-02,amb asg bwx bbz mg amr,b
+a 1,95.00,USD,debit,Cash out,2023-02-02,amb asg bw bvz mg fx,b
+a 1,5.75,USD,debit,Cash out,2023-02-02,amb asg gh anm sz crk,b
+a 1,55.00,USD,debit,Cash out,2023-02-02,amb asg gh anm sz bzr,b
+a 1,24.00,USD,debit,Cash out,2023-02-02,amb asg gh ajb mg cje,b
+a 1,50.00,USD,debit,Cash out,2023-02-02,amb asg bw bka sz ajx,b
+a 1,15.95,USD,debit,Cash out,2023-02-02,amb asg bwx bbz mg bn,b
+a 1,27.50,USD,debit,Cash out,2023-02-02,amb asg gh anm sz bzx,b
+a 1,4.50,USD,debit,Cash out,2023-02-02,amb asg hq chb sz bvx,b
+a 1,148.03,USD,debit,Cash out,2023-02-02,amb asg ip aiw sz cfu,b
+a 1,148.03,USD,debit,Cash out,2023-02-02,amb asg ip aiw sz awo,b
+a 1,107.13,USD,debit,Cash out,2023-02-02,amb asg cbe aye sz bqz,b
+a 1,10.40,USD,debit,Cash out,2023-02-02,amb asg bwx bbz mg bmh,b
+a 1,"79,230.80",USD,credit,Cash in,2023-02-02,awi ael auo clr sz bci,d
+a 1,70.00,USD,debit,Cash out,2023-02-02,amb asg bw bvz mg ajf,b
+a 1,41.18,USD,debit,Cash out,2023-02-02,amb asg ip wu sz vf,b
+a 1,7.00,USD,debit,Cash out,2023-02-02,amb asg gh anm sz cpb,b
+a 1,15.95,USD,debit,Cash out,2023-02-02,amb asg bwx bbz mg dc,b
+a 2,"31,190.38",USD,credit,Cash in,2023-02-02,buy aq mo,a
+a 8,24.61,USD,debit,Cash out,2023-02-02,bcm cil blc bhx cih cjq,e
+a 3,"1,482.00",USD,debit,Cash out,2023-02-02,ban cdc agj aav,d
+a 3,"5,521.19",USD,debit,Cash out,2023-02-02,ban cdc agj akt,d
+a 3,"1,852.50",USD,credit,Cash in,2023-02-02,ky aqg clr ai ng,d
+a 3,"2,223.00",USD,credit,Cash in,2023-02-02,ky aqg clr ai aai,d
+a 3,"1,582.26",USD,debit,Cash out,2023-02-02,ban cdc agj arg,d
+a 3,"2,223.00",USD,credit,Cash in,2023-02-02,ky aqg clr ai bds,d
+a 3,"1,852.50",USD,debit,Cash out,2023-02-02,ban cdc agj bky,d
+a 3,"3,020.32",USD,debit,Cash out,2023-02-02,ban cdc agj bux,d
+a 3,"2,074.80",USD,debit,Cash out,2023-02-02,ban cdc agj bcs,d
+a 3,"1,816.19",USD,debit,Cash out,2023-02-02,ban cdc agj xv,d
+a 3,"1,333.80",USD,credit,Cash in,2023-02-02,ky aqg clr ai bva,d
+a 3,"2,223.00",USD,credit,Cash in,2023-02-02,ky aqg clr ai mz,d
+a 3,162.70,USD,debit,Cash out,2023-02-02,bqh ay agw,c
+a 3,"1,176.76",USD,debit,Cash out,2023-02-02,ban cdc agj bkj,d
+a 3,"2,927.69",USD,debit,Cash out,2023-02-02,ban cdc agj ckh,d
+a 3,"2,964.00",USD,debit,Cash out,2023-02-02,ban cdc agj fb,d
+a 3,"5,778.37",USD,debit,Cash out,2023-02-02,ban cdc agj os,d
+a 3,"3,705.00",USD,debit,Cash out,2023-02-02,ban cdc agj ts,d
+a 3,259.35,USD,debit,Cash out,2023-02-02,ban cdc agj bza,d
+a 3,"1,216.50",USD,debit,Cash out,2023-02-02,ban cdc agj qs,d
+a 3,"2,723.62",USD,debit,Cash out,2023-02-02,ban cdc agj aha,d
+a 3,"2,826.69",USD,debit,Cash out,2023-02-02,ban cdc agj als,d
+a 3,"1,333.80",USD,credit,Cash in,2023-02-02,ky aqg clr ai afo,d
+a 3,"3,097.71",USD,debit,Cash out,2023-02-02,ban cdc agj cal,d
+a 3,778.05,USD,debit,Cash out,2023-02-02,ban cdc agj axp,d
+a 3,"2,223.00",USD,credit,Cash in,2023-02-02,ky aqg clr ai byc,d
+a 3,"2,593.50",USD,credit,Cash in,2023-02-02,ky aqg clr ai cem,d
+a 3,"2,593.50",USD,debit,Cash out,2023-02-02,ban cdc agj kb,d
+a 3,453.86,USD,debit,Cash out,2023-02-02,ban cdc agj aya,d
+a 3,370.50,USD,credit,Cash in,2023-02-02,ky aqg clr ai acd,d
+a 3,"1,852.50",USD,credit,Cash in,2023-02-02,ky aqg clr ai ev,d
+a 3,"3,668.69",USD,debit,Cash out,2023-02-02,ban cdc agj clo,d
+a 3,"17,787.02",USD,credit,Cash in,2023-02-02,nj cdc ha mg cpt,d
+a 3,"3,204.26",USD,debit,Cash out,2023-02-02,ban cdc agj akq,d
+a 3,370.50,USD,debit,Cash out,2023-02-02,ban cdc agj bat,d
+a 3,"45,000.00",USD,debit,Cash out,2023-02-02,coe crp po aqa bkq hw ama crp bsk,e
+a 3,"1,482.00",USD,debit,Cash out,2023-02-02,ban cdc agj ali,d
+a 3,"1,156.55",USD,debit,Cash out,2023-02-02,ban cdc agj bmn,d
+a 3,"2,223.00",USD,credit,Cash in,2023-02-02,ky aqg clr ai sp,d
+a 3,"2,223.00",USD,debit,Cash out,2023-02-02,ban cdc agj ast,d
+a 3,"1,482.00",USD,debit,Cash out,2023-02-02,ban cdc agj anz,d
+a 3,444.60,USD,debit,Cash out,2023-02-02,ban cdc agj abb,d
+a 3,518.70,USD,credit,Cash in,2023-02-02,ky aqg clr ai bya,d
+a 3,"3,528.66",USD,debit,Cash out,2023-02-02,ban cdc agj xn,d
+a 3,"2,223.00",USD,debit,Cash out,2023-02-02,ban cdc agj bdf,d
+a 3,"3,667.95",USD,credit,Cash in,2023-02-02,ky aqg clr ai bdm,d
+a 3,"4,816.50",USD,debit,Cash out,2023-02-02,ban cdc agj asp,d
+a 3,"1,852.50",USD,credit,Cash in,2023-02-02,ky aqg clr ai ane,d
+a 3,"1,111.50",USD,credit,Cash in,2023-02-02,ky aqg clr ai adu,d
+a 3,"4,623.51",USD,debit,Cash out,2023-02-02,ban cdc agj bq,d
+a 3,"2,223.00",USD,debit,Cash out,2023-02-02,ban cdc agj lf,d
+c 6,"3,229.72",USD,credit,Cash in,2023-02-01,buy aq byh,a
+a 1,421.60,USD,credit,Cash in,2023-02-01,buy aq fm,a
+a 1,"157,822.11",USD,credit,Cash in,2023-02-01,buy aq cea,a
+a 1,160.25,USD,debit,Cash out,2023-02-01,amb asg cma ayv cih crd,b
+a 1,75.80,USD,debit,Cash out,2023-02-01,amb asg bwx ccl cih byn,b
+a 1,"2,597.89",USD,debit,Cash out,2023-02-01,ahi bfn ajo mg bcl,f
+a 1,375.00,USD,debit,Cash out,2023-02-01,amb asg gh ahs cih er,b
+a 1,14.18,USD,debit,Cash out,2023-02-01,amb asg gh na cih bmw,b
+a 1,6.00,USD,debit,Cash out,2023-02-01,amb asg ip oh cih ahf,b
+a 1,441.00,USD,debit,Cash out,2023-02-01,amb asg ip oh cih us,b
+a 1,18.03,USD,debit,Cash out,2023-02-01,amb asg bwx ccl cih ck,b
+a 1,17.93,USD,debit,Cash out,2023-02-01,amb asg bwx ccl cih jp,b
+a 1,"95,988.73",USD,credit,Cash in,2023-02-01,awi ael auo clr mg bci,d
+a 1,90.00,USD,debit,Cash out,2023-02-01,amb asg bwx ccl cih avx,b
+a 1,"144,312.47",USD,credit,Cash in,2023-02-01,awi ael auo clr mg bci,d
+a 1,55.00,USD,debit,Cash out,2023-02-01,amb asg adq bjp cih bbl,b
+a 1,24.97,USD,debit,Cash out,2023-02-01,amb asg bwx ccl cih ahu,b
+a 1,19.20,USD,debit,Cash out,2023-02-01,amb asg bwx ccl cih bib,b
+a 1,181.12,USD,debit,Cash out,2023-02-01,amb asg gh na cih cu,b
+a 1,12.15,USD,debit,Cash out,2023-02-01,amb asg afw bnj cih bee,b
+a 1,144.25,USD,debit,Cash out,2023-02-01,amb asg bwx ccl cih cjw,b
+a 2,"43,991.41",USD,credit,Cash in,2023-02-01,buy aq eb,a
+a 3,"1,261.08",USD,debit,Cash out,2023-02-01,amb asg aic sv cih bfl,b
+a 3,5.00,USD,debit,Cash out,2023-02-01,amb asg cma ake cih cec,b
+a 3,151.36,USD,debit,Cash out,2023-02-01,bqh ay agw,c
+a 3,587.36,USD,debit,Cash out,2023-02-01,yg kr apa,c
+a 3,"1,685.50",USD,debit,Cash out,2023-02-01,amb asg avh nq cih cne,b
+a 3,952.58,USD,debit,Cash out,2023-02-01,yg bcc aqh,c
+a 3,343.00,USD,debit,Cash out,2023-02-01,yg kr bel,c
+a 3,"7,577.70",USD,credit,Cash in,2023-02-01,nj cdc ha cih alk,d
+a 3,943.81,USD,debit,Cash out,2023-02-01,yg bcc brm,c
