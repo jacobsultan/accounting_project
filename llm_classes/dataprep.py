@@ -3,8 +3,7 @@ from torch.utils.data import Dataset, DataLoader
 from sklearn.model_selection import train_test_split
 import torch as t
 
-# Check for GPU availability and set the device accordingly
-device = "cuda" if t.cuda.is_available() else "cpu"
+device = "cpu"
 
 # Class for taking the dataframe and creating dataloaders to feed into model
 class DataPrep(Dataset):
